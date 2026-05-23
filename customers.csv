@@ -1,0 +1,1066 @@
+CustomerID,FullName,Gender,DateOfBirth,City,Country,IncomeBand,Email,PhoneNumber,LoadDate
+C001,Sipho Smit,female,1979-12-21,Pietermaritzburg,South Africa,Middle,sipho.smit1@gmail.com,0832719583,2026-05-20 21:18:03.947897
+C002,Mduduzi Brown,male,1960-11-07,Johannesburg,South Africa,Low,mduduzi.brown2@gmail.com,0664903402,2026-05-20 21:18:03.947897
+C003,Nkosinathi Gcaleka,male,1995-08-21,Pietermaritzburg,South Africa,High,nkosinathi.gcaleka3@gmail.com,0785667265,2026-05-20 21:18:03.947897
+C004,Francois Brown,male,1988-07-11,Kimberley,South Africa,Middle,francois.brown4@gmail.com,0666647119,2026-05-20 21:18:03.947897
+C005,Tshepo Smith,male,1966-09-05,Rustenburg,South Africa,Upper-Middle,tshepo.smith5@gmail.com,0795437923,2026-05-20 21:18:03.947897
+C006,Phiwayinkosi Singh,MALE,1969-03-14,George,South Africa,Low,phiwayinkosi.singh6@gmail.com,0775918715,2026-05-20 21:18:03.947897
+C007,Nokufa Gcaleka,MALE,1964-03-29,Cape Town,South Africa,Middle,nokufa.gcaleka7@gmail.com,0845855124,2026-05-20 21:18:03.947897
+C008,David Cele,M,1992-02-07,Kimberley,South Africa,High,david.cele8@gmail.com,0807120868,2026-05-20 21:18:03.947897
+C009,Sifiso Steyn,M,1976-10-18,Kimberley,South Africa,Low,sifiso.steyn9@gmail.com,0793871230,2026-05-20 21:18:03.947897
+C010,Francois Anderson,female,1992-01-16,Kimberley,South Africa,Middle,francois.anderson10@gmail.com,0816440561,2026-05-20 21:18:03.947897
+C011,David Dlamini,FEMALE,1986-04-20,George,South Africa,Upper-Middle,david.dlamini11@gmail.com,0624539704,2026-05-20 21:18:03.947897
+C012,Neha Khoza,M,2002-10-15,George,South Africa,High,neha.khoza12@gmail.com,0645443951,2026-05-20 21:18:03.947897
+C013,Rajesh Moodley,male,1981-07-28,Benoni,South Africa,High,rajesh.moodley13@gmail.com,0887700828,2026-05-20 21:18:03.947897
+C014,Sunita Mokoena,M,2003-09-18,Sandton,South Africa,Low,sunita.mokoena14@gmail.com,0841790481,2026-05-20 21:18:03.947897
+C015,Hendrik Mhlongo,M,1972-05-09,Paarl,South Africa,Low,hendrik.mhlongo15@gmail.com,0727402509,2026-05-20 21:18:03.947897
+C016,Sbongile Fourie,MALE,1959-01-12,Pretoria,South Africa,Upper-Middle,sbongile.fourie16@gmail.com,0846707197,2026-05-20 21:18:03.947897
+C017,Mohammed Brown,male,1972-03-10,Stellenbosch,South Africa,Low,mohammed.brown17@gmail.com,0835418934,2026-05-20 21:18:03.947897
+C018,Sakhile Cele,female,1984-10-10,Centurion,South Africa,Middle,sakhile.cele18@gmail.com,0647273233,2026-05-20 21:18:03.947897
+C019,Mthulisi Pillay,female,1958-01-19,Boksburg,South Africa,Upper-Middle,mthulisi.pillay19@gmail.com,0751326765,2026-05-20 21:18:03.947897
+C020,Sifiso Joubert,female,1979-06-26,Cape Town,South Africa,Middle,sifiso.joubert20@gmail.com,0882321324,2026-05-20 21:18:03.947897
+C021,,Male,2005-10-16,Port Elizabeth,South Africa,Middle,lwazi.ndlovu21@gmail.com,0818973915,2026-05-20 21:18:03.947897
+C022,,Male,1995-12-18,East London,South Africa,Middle,sanjay.pillay22@gmail.com,0826229731,2026-05-20 21:18:03.947897
+C023,,Female,2004-06-07,Stellenbosch,South Africa,Low,siphokazi.taylor23@gmail.com,0674769795,2026-05-20 21:18:03.947897
+C024,,Male,1978-08-24,Benoni,South Africa,Middle,lungelo.zulu24@gmail.com,0602191066,2026-05-20 21:18:03.947897
+C025,,Male,1960-10-26,Polokwane,South Africa,Low,david.ndlovu25@gmail.com,0764993055,2026-05-20 21:18:03.947897
+C026,,Female,1969-11-14,Benoni,South Africa,High,noxolo.van der merwe26@gmail.com,0678935169,2026-05-20 21:18:03.947897
+C027,,Female,1966-09-12,Paarl,South Africa,Upper-Middle,priya.cele27@gmail.com,0737897151,2026-05-20 21:18:03.947897
+C028,,Female,1966-10-30,Cape Town,South Africa,High,thandeka.khoza28@gmail.com,0836692553,2026-05-20 21:18:03.947897
+C029,,Male,1975-01-24,Midrand,South Africa,High,rajesh.gcaleka29@gmail.com,0648077999,2026-05-20 21:18:03.947897
+C030,,Male,1980-05-30,Durban,South Africa,High,amit.anderson30@gmail.com,0852642635,2026-05-20 21:18:03.947897
+C031,,Male,1966-05-15,Pietermaritzburg,South Africa,Middle,mthulisi.nkosi31@gmail.com,0739147706,2026-05-20 21:18:03.947897
+C032,,Female,1963-04-06,Bloemfontein,South Africa,High,neha.jones32@gmail.com,0607550190,2026-05-20 21:18:03.947897
+C033,,Female,1995-12-14,Midrand,South Africa,High,zodwa.pretorius33@gmail.com,0644185957,2026-05-20 21:18:03.947897
+C034,,Female,1963-06-21,Polokwane,South Africa,Low,neha.mkhize34@gmail.com,0618999183,2026-05-20 21:18:03.947897
+C035,,Male,1965-03-10,Bloemfontein,South Africa,Low,bongani.reddy35@gmail.com,0792140194,2026-05-20 21:18:03.947897
+C036,Sibusiso Modise,Male,1980-02-02,,South Africa,Low,sibusiso.modise36@gmail.com,0792375453,2026-05-20 21:18:03.947897
+C037,Nobuhle Sithole,Female,2004-11-25,,South Africa,Upper-Middle,nobuhle.sithole37@gmail.com,0666271130,2026-05-20 21:18:03.947897
+C038,Sanjay Jones,Male,1969-09-28,,South Africa,High,sanjay.jones38@gmail.com,0702217071,2026-05-20 21:18:03.947897
+C039,Phiwayinkosi Zwane,Male,1966-12-21,,South Africa,Middle,phiwayinkosi.zwane39@gmail.com,0765449324,2026-05-20 21:18:03.947897
+C040,Nhlanhla Ndlovu,Male,1979-12-01,,South Africa,Upper-Middle,nhlanhla.ndlovu40@gmail.com,0658351517,2026-05-20 21:18:03.947897
+C041,Sbongile Nkosi,Female,1984-11-10,,South Africa,Middle,sbongile.nkosi41@gmail.com,0682936571,2026-05-20 21:18:03.947897
+C042,Nkosinathi Moloi,Male,1982-06-08,,South Africa,Middle,nkosinathi.moloi42@gmail.com,0826752576,2026-05-20 21:18:03.947897
+C043,Sanjay Reddy,Male,2001-10-30,,South Africa,Low,sanjay.reddy43@gmail.com,0628106422,2026-05-20 21:18:03.947897
+C044,Zanele Nkosi,Female,1987-12-04,,South Africa,Upper-Middle,zanele.nkosi44@gmail.com,0658412769,2026-05-20 21:18:03.947897
+C045,Lungile Nkosi,Female,1968-01-14,,South Africa,Middle,lungile.nkosi45@gmail.com,0771604451,2026-05-20 21:18:03.947897
+C046,Nobuhle Moodley,Female,1971-04-15,,South Africa,Middle,nobuhle.moodley46@gmail.com,0616171716,2026-05-20 21:18:03.947897
+C047,Zanele Steyn,Female,1976-11-05,,South Africa,Low,zanele.steyn47@gmail.com,0717817881,2026-05-20 21:18:03.947897
+C048,Rajesh Radebe,Male,1973-11-19,,South Africa,Low,rajesh.radebe48@gmail.com,0656573147,2026-05-20 21:18:03.947897
+C049,Ayesha Smit,Female,1972-04-13,,South Africa,High,ayesha.smit49@gmail.com,0871649691,2026-05-20 21:18:03.947897
+C050,Sunita Gcaleka,Female,1999-04-19,,South Africa,Upper-Middle,sunita.gcaleka50@gmail.com,0864818418,2026-05-20 21:18:03.947897
+C051,Sipho Gcaleka,Male,1993-09-30,Polokwane,South Africa,Upper-Middle,sipho.gcaleka51@gmail.com,0872164686,2026-05-20 21:18:03.947897
+C052,Nompumelelo Khoza,Female,2003-09-14,George,South Africa,Upper-Middle,nompumelelo.khoza52@gmail.com,0602935113,2026-05-20 21:18:03.947897
+C053,Linda Shabalala,Female,1981-10-25,Cape Town,South Africa,Low,linda.shabalala53@gmail.com,0798290770,2026-05-20 21:18:03.947897
+C054,Nokwanda Brown,Female,2003-11-19,Pretoria,South Africa,High,nokwanda.brown54@gmail.com,0884188992,2026-05-20 21:18:03.947897
+C055,Zanele Brown,Female,1958-02-25,Centurion,South Africa,Middle,zanele.brown55@gmail.com,0718235969,2026-05-20 21:18:03.947897
+C056,Lungelo Zwane,Male,1986-03-01,Pretoria,South Africa,Upper-Middle,lungelo.zwane56@gmail.com,0766188935,2026-05-20 21:18:03.947897
+C057,Nokwanda Jones,Female,1984-07-11,Midrand,South Africa,Middle,nokwanda.jones57@gmail.com,0668053918,2026-05-20 21:18:03.947897
+C058,Linda Zwane,Female,1984-12-31,George,South Africa,Low,linda.zwane58@gmail.com,0695813613,2026-05-20 21:18:03.947897
+C059,Sanele Shabalala,Male,1986-11-29,Stellenbosch,South Africa,High,sanele.shabalala59@gmail.com,0744585314,2026-05-20 21:18:03.947897
+C060,Jennifer Ngcobo,Female,1983-06-18,Centurion,South Africa,Upper-Middle,jennifer.ngcobo60@gmail.com,0624940441,2026-05-20 21:18:03.947897
+C061,Sunita Gcaleka,Female,1971-03-22,Johannesburg,South Africa,Low,sunita.gcaleka61@gmail.com,0678971465,2026-05-20 21:18:03.947897
+C062,Phiwayinkosi Williams,Male,1975-06-12,George,South Africa,High,phiwayinkosi.williams62@gmail.com,0725093379,2026-05-20 21:18:03.947897
+C063,Thabo Cele,Male,1996-02-22,Pietermaritzburg,South Africa,Middle,thabo.cele63@gmail.com,0859689889,2026-05-20 21:18:03.947897
+C064,Thandeka Moodley,Female,1980-05-10,Pretoria,South Africa,High,thandeka.moodley64@gmail.com,0648795419,2026-05-20 21:18:03.947897
+C065,Simangele Zwane,Female,2003-04-15,Paarl,South Africa,High,simangele.zwane65@gmail.com,0883670226,2026-05-20 21:18:03.947897
+C066,Simangele Fourie,Female,1980-03-07,Kimberley,South Africa,High,simangele.fourie66@gmail.com,0805013879,2026-05-20 21:18:03.947897
+C067,Simangele Ndlovu,Female,1983-08-20,Pietermaritzburg,South Africa,Upper-Middle,simangele.ndlovu67@gmail.com,0706363836,2026-05-20 21:18:03.947897
+C068,Johan Moloi,Male,1978-09-30,George,South Africa,Middle,johan.moloi68@gmail.com,0824589533,2026-05-20 21:18:03.947897
+C069,Njabulo Williams,Male,1987-09-08,Midrand,South Africa,High,njabulo.williams69@gmail.com,0732044645,2026-05-20 21:18:03.947897
+C070,Njabulo Smith,Male,1959-10-03,Benoni,South Africa,High,njabulo.smith70@gmail.com,0751098919,2026-05-20 21:18:03.947897
+C071,Thandi Smith,Female,1995-08-05,Midrand,South Africa,Middle,thandi.smith71@gmail.com,0754681284,2026-05-20 21:18:03.947897
+C072,Nokukhanya Govender,Female,1960-08-09,George,South Africa,Upper-Middle,nokukhanya.govender72@gmail.com,0817783308,2026-05-20 21:18:03.947897
+C073,Phiwayinkosi Mokoena,Male,2005-12-02,Johannesburg,South Africa,High,phiwayinkosi.mokoena73@gmail.com,0781454696,2026-05-20 21:18:03.947897
+C074,Sanele Mokoena,Male,1999-06-03,Bloemfontein,South Africa,Low,sanele.mokoena74@gmail.com,0687360307,2026-05-20 21:18:03.947897
+C075,Neha Anderson,Female,1987-04-29,Polokwane,South Africa,High,neha.anderson75@gmail.com,0688072684,2026-05-20 21:18:03.947897
+C076,Naledi Naidoo,Female,1959-09-28,Midrand,South Africa,Low,naledi.naidoo76@gmail.com,0714761823,2026-05-20 21:18:03.947897
+C077,Mandla Zulu,Male,1980-03-08,East London,South Africa,Low,mandla.zulu77@gmail.com,0793556551,2026-05-20 21:18:03.947897
+C078,Johan Naidoo,Male,1968-04-06,Benoni,South Africa,Middle,johan.naidoo78@gmail.com,0745299055,2026-05-20 21:18:03.947897
+C079,Jennifer Mthembu,Female,1968-04-11,Bloemfontein,South Africa,Upper-Middle,jennifer.mthembu79@gmail.com,0631430812,2026-05-20 21:18:03.947897
+C080,Nokufa Smith,Female,1993-08-02,East London,South Africa,Low,nokufa.smith80@gmail.com,0785074336,2026-05-20 21:18:03.947897
+C081,Yusuf Mthembu,Male,1968-11-10,Benoni,South Africa,Low,yusuf.mthembu81@gmail.com,0719937982,2026-05-20 21:18:03.947897
+C082,Siphokazi Ndlovu,Female,2003-05-24,Polokwane,South Africa,Low,siphokazi.ndlovu82@gmail.com,0878047416,2026-05-20 21:18:03.947897
+C083,Elsie Brown,Female,1990-06-30,Stellenbosch,South Africa,Middle,elsie.brown83@gmail.com,0733955087,2026-05-20 21:18:03.947897
+C084,Nozipho Naidoo,Female,1999-09-15,Paarl,South Africa,Upper-Middle,nozipho.naidoo84@gmail.com,0705118725,2026-05-20 21:18:03.947897
+C085,Amit Taylor,Male,1979-11-17,Stellenbosch,South Africa,High,amit.taylor85@gmail.com,0701481506,2026-05-20 21:18:03.947897
+C086,Nokwanda Baloyi,Female,2001-09-28,East London,South Africa,Upper-Middle,nokwanda.baloyi86@gmail.com,0855334434,2026-05-20 21:18:03.947897
+C087,Zainab Mthembu,Female,1982-10-14,Midrand,South Africa,Low,zainab.mthembu87@gmail.com,0764205394,2026-05-20 21:18:03.947897
+C088,Rajesh Williams,Male,2001-10-31,Midrand,South Africa,Middle,rajesh.williams88@gmail.com,0828987516,2026-05-20 21:18:03.947897
+C089,Simangele Zulu,Female,1966-05-08,Nelspruit,South Africa,Middle,simangele.zulu89@gmail.com,0725081983,2026-05-20 21:18:03.947897
+C090,Nobuhle Lombard,Female,2000-06-16,Midrand,South Africa,Upper-Middle,nobuhle.lombard90@gmail.com,0736549757,2026-05-20 21:18:03.947897
+C091,Zodwa Smit,Female,1985-07-05,Kimberley,South Africa,Middle,zodwa.smit91@gmail.com,0634231028,2026-05-20 21:18:03.947897
+C092,Maria Singh,Female,1974-08-11,East London,South Africa,Middle,maria.singh92@gmail.com,0839123504,2026-05-20 21:18:03.947897
+C093,Nobuhle Pillay,Female,1983-05-23,Pretoria,South Africa,Middle,nobuhle.pillay93@gmail.com,0694816534,2026-05-20 21:18:03.947897
+C094,Linda Joubert,Female,1959-04-09,Midrand,South Africa,Middle,linda.joubert94@gmail.com,0681763626,2026-05-20 21:18:03.947897
+C095,Nkosinathi Pretorius,Male,1969-04-30,Sandton,South Africa,Low,nkosinathi.pretorius95@gmail.com,0871205779,2026-05-20 21:18:03.947897
+C096,Nokuthula Naidoo,Female,1997-07-08,Polokwane,South Africa,Middle,nokuthula.naidoo96@gmail.com,0615235884,2026-05-20 21:18:03.947897
+C097,Maria Ndlovu,Female,1993-12-13,Sandton,South Africa,Low,maria.ndlovu97@gmail.com,0781899411,2026-05-20 21:18:03.947897
+C098,Hendrik Sithole,Male,1985-04-05,Durban,South Africa,Middle,hendrik.sithole98@gmail.com,0637982241,2026-05-20 21:18:03.947897
+C099,Thandolwethu Smith,Male,1998-06-02,Stellenbosch,South Africa,Upper-Middle,thandolwethu.smith99@gmail.com,0878194570,2026-05-20 21:18:03.947897
+C100,Nokufa Zwane,Female,1963-05-28,Boksburg,South Africa,Low,nokufa.zwane100@gmail.com,0844486102,2026-05-20 21:18:03.947897
+C101,Sanjay Ngcobo,Male,1972-02-03,Pietermaritzburg,South Africa,Middle,sanjay.ngcobo101@gmail.com,0772259379,2026-05-20 21:18:03.947897
+C102,Thabo Williams,Male,1998-06-02,Boksburg,South Africa,High,thabo.williams102@gmail.com,0691547605,2026-05-20 21:18:03.947897
+C103,Mohammed Pretorius,Male,1998-09-25,Durban,South Africa,Middle,mohammed.pretorius103@gmail.com,0895438490,2026-05-20 21:18:03.947897
+C104,Sanele Modise,Male,1978-03-03,Port Elizabeth,South Africa,Upper-Middle,sanele.modise104@gmail.com,0863386328,2026-05-20 21:18:03.947897
+C105,Bongani Radebe,Male,1985-08-06,Boksburg,South Africa,Upper-Middle,bongani.radebe105@gmail.com,0743086308,2026-05-20 21:18:03.947897
+C106,Thandi Jones,Female,1982-06-04,Centurion,South Africa,High,thandi.jones106@gmail.com,0742349590,2026-05-20 21:18:03.947897
+C107,Sanele Kruger,Male,1980-06-18,Johannesburg,South Africa,Low,sanele.kruger107@gmail.com,0671348050,2026-05-20 21:18:03.947897
+C108,Nokufa Dlamini,Female,1973-09-19,Sandton,South Africa,High,nokufa.dlamini108@gmail.com,0895666692,2026-05-20 21:18:03.947897
+C109,Mduduzi Brown,Male,2002-02-11,Durban,South Africa,High,mduduzi.brown109@gmail.com,0717850944,2026-05-20 21:18:03.947897
+C110,Nokwanda Cele,Female,1972-06-05,Polokwane,South Africa,High,nokwanda.cele110@gmail.com,0829312590,2026-05-20 21:18:03.947897
+C111,Ntombifikile Moodley,Female,1961-04-17,Stellenbosch,South Africa,Low,ntombifikile.moodley111@gmail.com,0705234550,2026-05-20 21:18:03.947897
+C112,Maria Jones,Female,2004-03-02,Johannesburg,South Africa,High,maria.jones112@gmail.com,0731909393,2026-05-20 21:18:03.947897
+C113,Thandolwethu Lombard,Male,2002-09-21,Stellenbosch,South Africa,Low,thandolwethu.lombard113@gmail.com,0665480460,2026-05-20 21:18:03.947897
+C114,Mohammed Taylor,Male,2001-06-27,Pretoria,South Africa,Low,mohammed.taylor114@gmail.com,0805014745,2026-05-20 21:18:03.947897
+C115,Yusuf Moodley,Male,1959-03-25,Midrand,South Africa,High,yusuf.moodley115@gmail.com,0624769851,2026-05-20 21:18:03.947897
+C116,Phiwayinkosi Modise,Male,1971-10-25,Sandton,South Africa,Upper-Middle,phiwayinkosi.modise116@gmail.com,0765587308,2026-05-20 21:18:03.947897
+C117,Nokuthula Naidoo,Female,1979-11-13,Stellenbosch,South Africa,Middle,nokuthula.naidoo117@gmail.com,0724197911,2026-05-20 21:18:03.947897
+C118,Kagiso Smit,Male,1995-03-24,Polokwane,South Africa,Upper-Middle,kagiso.smit118@gmail.com,0861043037,2026-05-20 21:18:03.947897
+C119,Thandi Shabalala,Female,2001-12-05,Port Elizabeth,South Africa,High,thandi.shabalala119@gmail.com,0779125900,2026-05-20 21:18:03.947897
+C120,Busisiwe Moodley,Female,1991-11-04,Stellenbosch,South Africa,Upper-Middle,busisiwe.moodley120@gmail.com,0874165061,2026-05-20 21:18:03.947897
+C121,Buyani Smith,Male,1978-12-15,Paarl,South Africa,Low,buyani.smith121@gmail.com,0708935224,2026-05-20 21:18:03.947897
+C122,Ayanda Khoza,Female,1971-08-25,Sandton,South Africa,Low,ayanda.khoza122@gmail.com,0649427047,2026-05-20 21:18:03.947897
+C123,Elsie Taylor,Female,1966-12-12,Centurion,South Africa,High,elsie.taylor123@gmail.com,0603418526,2026-05-20 21:18:03.947897
+C124,Patricia Ndlovu,Female,2000-02-14,Kimberley,South Africa,Upper-Middle,patricia.ndlovu124@gmail.com,0797668663,2026-05-20 21:18:03.947897
+C125,Lungelo Singh,Male,1992-02-04,Polokwane,South Africa,High,lungelo.singh125@gmail.com,0871602286,2026-05-20 21:18:03.947897
+C126,Rajesh Mhlongo,Male,1983-10-13,Pietermaritzburg,South Africa,Low,rajesh.mhlongo126@gmail.com,0732651601,2026-05-20 21:18:03.947897
+C127,Mthokozisi Radebe,Male,1984-11-12,Johannesburg,South Africa,Low,mthokozisi.radebe127@gmail.com,0701941524,2026-05-20 21:18:03.947897
+C128,Nompumelelo Lombard,Female,1996-08-21,Port Elizabeth,South Africa,Middle,nompumelelo.lombard128@gmail.com,0767913081,2026-05-20 21:18:03.947897
+C129,Francois Baloyi,Male,1965-01-31,Boksburg,South Africa,High,francois.baloyi129@gmail.com,0795040453,2026-05-20 21:18:03.947897
+C130,Nobuhle Moloi,Female,1978-10-31,Stellenbosch,South Africa,Upper-Middle,nobuhle.moloi130@gmail.com,0745283671,2026-05-20 21:18:03.947897
+C131,Phiwayinkosi Pretorius,Male,1972-03-04,Durban,South Africa,High,phiwayinkosi.pretorius131@gmail.com,0716018975,2026-05-20 21:18:03.947897
+C132,Fatima Anderson,Female,1985-02-07,East London,South Africa,High,fatima.anderson132@gmail.com,0879106886,2026-05-20 21:18:03.947897
+C133,Rajesh Smith,Male,1990-03-16,Benoni,South Africa,Upper-Middle,rajesh.smith133@gmail.com,0825953150,2026-05-20 21:18:03.947897
+C134,Sibusiso Smit,Male,1958-09-23,Benoni,South Africa,Low,sibusiso.smit134@gmail.com,0899333700,2026-05-20 21:18:03.947897
+C135,Sunita Mthembu,Female,1989-08-10,Pietermaritzburg,South Africa,Middle,sunita.mthembu135@gmail.com,0795204819,2026-05-20 21:18:03.947897
+C136,Mpho Mhlongo,Male,1961-07-15,Nelspruit,South Africa,High,mpho.mhlongo136@gmail.com,0617121355,2026-05-20 21:18:03.947897
+C137,Tshepo Pretorius,Male,1987-04-24,Paarl,South Africa,Middle,tshepo.pretorius137@gmail.com,0663217273,2026-05-20 21:18:03.947897
+C138,Sbongile Reddy,Female,1982-06-14,Bloemfontein,South Africa,Upper-Middle,sbongile.reddy138@gmail.com,0899084065,2026-05-20 21:18:03.947897
+C139,Busisiwe Modise,Female,2000-01-07,Durban,South Africa,Middle,busisiwe.modise139@gmail.com,0844785186,2026-05-20 21:18:03.947897
+C140,Lungile Lombard,Female,1966-02-07,George,South Africa,Low,lungile.lombard140@gmail.com,0683073474,2026-05-20 21:18:03.947897
+C141,Siphokazi Fourie,Female,1992-03-08,Rustenburg,South Africa,Low,siphokazi.fourie141@gmail.com,0814922880,2026-05-20 21:18:03.947897
+C142,Nomsa Zwane,Female,1987-06-06,Boksburg,South Africa,Middle,nomsa.zwane142@gmail.com,0802060605,2026-05-20 21:18:03.947897
+C143,Thandi Khoza,Female,1994-08-19,Pretoria,South Africa,Middle,thandi.khoza143@gmail.com,0611624315,2026-05-20 21:18:03.947897
+C144,Noxolo Modise,Female,1966-09-20,Pietermaritzburg,South Africa,Middle,noxolo.modise144@gmail.com,0728610879,2026-05-20 21:18:03.947897
+C145,Nozipho Williams,Female,1971-11-12,Paarl,South Africa,Low,nozipho.williams145@gmail.com,0869209880,2026-05-20 21:18:03.947897
+C146,Zainab Dlamini,Female,1991-03-30,East London,South Africa,High,zainab.dlamini146@gmail.com,0744961312,2026-05-20 21:18:03.947897
+C147,Elsie Lombard,Female,1990-03-07,Cape Town,South Africa,High,elsie.lombard147@gmail.com,0684184459,2026-05-20 21:18:03.947897
+C148,Phiwayinkosi Ngcobo,Male,1977-01-11,Boksburg,South Africa,Low,phiwayinkosi.ngcobo148@gmail.com,0616595355,2026-05-20 21:18:03.947897
+C149,Johan Sithole,Male,1976-05-30,Durban,South Africa,Middle,johan.sithole149@gmail.com,0784623062,2026-05-20 21:18:03.947897
+C150,Lungelo Moloi,Male,1958-04-03,Kimberley,South Africa,Middle,lungelo.moloi150@gmail.com,0645205279,2026-05-20 21:18:03.947897
+C151,Themba Zulu,Male,1969-10-28,Johannesburg,South Africa,Upper-Middle,themba.zulu151@gmail.com,0854991829,2026-05-20 21:18:03.947897
+C152,Nomsa Baloyi,Female,1981-10-22,Cape Town,South Africa,Middle,nomsa.baloyi152@gmail.com,0838062546,2026-05-20 21:18:03.947897
+C153,Kagiso Naidoo,Male,1998-03-21,Rustenburg,South Africa,Low,kagiso.naidoo153@gmail.com,0749453010,2026-05-20 21:18:03.947897
+C154,Mandla Pillay,Male,1985-01-22,Stellenbosch,South Africa,Low,mandla.pillay154@gmail.com,0619035982,2026-05-20 21:18:03.947897
+C155,Nokukhanya Cele,Female,2001-12-26,Stellenbosch,South Africa,Low,nokukhanya.cele155@gmail.com,0882355439,2026-05-20 21:18:03.947897
+C156,Patricia Ndlovu,Female,1969-04-28,Kimberley,South Africa,Upper-Middle,patricia.ndlovu156@gmail.com,0729901266,2026-05-20 21:18:03.947897
+C157,Zodwa Reddy,Female,1996-08-05,Pretoria,South Africa,Low,zodwa.reddy157@gmail.com,0874607488,2026-05-20 21:18:03.947897
+C158,Simangele Botha,Female,1995-02-15,Polokwane,South Africa,High,simangele.botha158@gmail.com,0727979148,2026-05-20 21:18:03.947897
+C159,Andile Brown,Male,1986-01-14,Kimberley,South Africa,Upper-Middle,andile.brown159@gmail.com,0648956894,2026-05-20 21:18:03.947897
+C160,Tshepo Ngcobo,Male,1966-05-13,Paarl,South Africa,Low,tshepo.ngcobo160@gmail.com,0837251976,2026-05-20 21:18:03.947897
+C161,Nkosinathi Mkhize,Male,1987-07-29,Pretoria,South Africa,High,nkosinathi.mkhize161@gmail.com,0718095702,2026-05-20 21:18:03.947897
+C162,Mohammed Mthembu,Male,1986-01-12,Rustenburg,South Africa,Low,mohammed.mthembu162@gmail.com,0789512969,2026-05-20 21:18:03.947897
+C163,Hendrik Naidoo,Male,1978-02-13,Pretoria,South Africa,Upper-Middle,hendrik.naidoo163@gmail.com,0877166651,2026-05-20 21:18:03.947897
+C164,Amit Sithole,Male,1978-04-16,Paarl,South Africa,Low,amit.sithole164@gmail.com,0795487028,2026-05-20 21:18:03.947897
+C165,James Smit,Male,1985-09-20,Polokwane,South Africa,Upper-Middle,james.smit165@gmail.com,0604043480,2026-05-20 21:18:03.947897
+C166,Buyani Jones,Male,1964-03-30,Port Elizabeth,South Africa,Low,buyani.jones166@gmail.com,0629900022,2026-05-20 21:18:03.947897
+C167,Musa Williams,Male,1998-09-13,Polokwane,South Africa,Middle,musa.williams167@gmail.com,0716228407,2026-05-20 21:18:03.947897
+C168,Nokufa Mthembu,Female,1965-08-15,Cape Town,South Africa,Middle,nokufa.mthembu168@gmail.com,0651834876,2026-05-20 21:18:03.947897
+C169,Amit Taylor,Male,1996-01-16,Sandton,South Africa,High,amit.taylor169@gmail.com,0735582979,2026-05-20 21:18:03.947897
+C170,Sakhile Modise,Male,1988-12-19,Paarl,South Africa,Low,sakhile.modise170@gmail.com,0699164342,2026-05-20 21:18:03.947897
+C171,Zanele Botha,Female,1993-06-17,Boksburg,South Africa,Low,zanele.botha171@gmail.com,0604429650,2026-05-20 21:18:03.947897
+C172,Neha Mokoena,Female,1980-12-03,Nelspruit,South Africa,Upper-Middle,neha.mokoena172@gmail.com,0631129686,2026-05-20 21:18:03.947897
+C173,Nokukhanya Baloyi,Female,1969-08-04,George,South Africa,Middle,nokukhanya.baloyi173@gmail.com,0766941939,2026-05-20 21:18:03.947897
+C174,Sibusiso Dlamini,Male,1997-02-19,Johannesburg,South Africa,High,sibusiso.dlamini174@gmail.com,0892306317,2026-05-20 21:18:03.947897
+C175,Nokufa Brown,Female,1994-04-14,Paarl,South Africa,Upper-Middle,nokufa.brown175@gmail.com,0637795314,2026-05-20 21:18:03.947897
+C176,Andile Radebe,Male,1999-04-12,Rustenburg,South Africa,Low,andile.radebe176@gmail.com,0732776088,2026-05-20 21:18:03.947897
+C177,Sanele Shabalala,Male,1993-12-04,Centurion,South Africa,Low,sanele.shabalala177@gmail.com,0726205543,2026-05-20 21:18:03.947897
+C178,Sunita de Villiers,Female,1973-01-31,Durban,South Africa,Low,sunita.de villiers178@gmail.com,0769555575,2026-05-20 21:18:03.947897
+C179,Nhlanhla Steyn,Male,1971-04-02,Pietermaritzburg,South Africa,Low,nhlanhla.steyn179@gmail.com,0645294434,2026-05-20 21:18:03.947897
+C180,James Mthembu,Male,1971-09-19,Durban,South Africa,Middle,james.mthembu180@gmail.com,0849289908,2026-05-20 21:18:03.947897
+C181,Nokufa Shabalala,Female,1998-04-10,Benoni,South Africa,Upper-Middle,nokufa.shabalala181@gmail.com,0876303930,2026-05-20 21:18:03.947897
+C182,Mthokozisi Ndlovu,Male,2000-01-26,Stellenbosch,South Africa,Upper-Middle,mthokozisi.ndlovu182@gmail.com,0855608259,2026-05-20 21:18:03.947897
+C183,Nhlanhla Reddy,Male,1964-08-28,Nelspruit,South Africa,High,nhlanhla.reddy183@gmail.com,0741630944,2026-05-20 21:18:03.947897
+C184,Sifiso Pretorius,Male,1964-11-19,Durban,South Africa,High,sifiso.pretorius184@gmail.com,0741688246,2026-05-20 21:18:03.947897
+C185,Nokufa Khoza,Female,1974-11-21,Polokwane,South Africa,High,nokufa.khoza185@gmail.com,0763531028,2026-05-20 21:18:03.947897
+C186,Mthokozisi Cele,Male,1988-10-23,Durban,South Africa,Middle,mthokozisi.cele186@gmail.com,0615156449,2026-05-20 21:18:03.947897
+C187,Simangele Pillay,Female,2004-11-24,Boksburg,South Africa,Middle,simangele.pillay187@gmail.com,0717255418,2026-05-20 21:18:03.947897
+C188,Ayanda Williams,Female,1988-05-10,Boksburg,South Africa,Low,ayanda.williams188@gmail.com,0856614484,2026-05-20 21:18:03.947897
+C189,Lungelo Cele,Male,1992-09-05,Nelspruit,South Africa,Upper-Middle,lungelo.cele189@gmail.com,0833522845,2026-05-20 21:18:03.947897
+C190,Naledi Shabalala,Female,1970-09-09,Rustenburg,South Africa,Upper-Middle,naledi.shabalala190@gmail.com,0807575963,2026-05-20 21:18:03.947897
+C191,Tshepo Joubert,Male,1991-10-18,Polokwane,South Africa,Middle,tshepo.joubert191@gmail.com,0819831414,2026-05-20 21:18:03.947897
+C192,Sanele Reddy,Male,1990-06-18,Johannesburg,South Africa,Upper-Middle,sanele.reddy192@gmail.com,0694024309,2026-05-20 21:18:03.947897
+C193,Lungelo Govender,Male,1975-03-24,Pietermaritzburg,South Africa,Middle,lungelo.govender193@gmail.com,0642294615,2026-05-20 21:18:03.947897
+C194,Elsie Reddy,Female,2005-03-28,Cape Town,South Africa,Upper-Middle,elsie.reddy194@gmail.com,0883198638,2026-05-20 21:18:03.947897
+C195,Patricia Radebe,Female,1974-03-23,Boksburg,South Africa,Middle,patricia.radebe195@gmail.com,0838342941,2026-05-20 21:18:03.947897
+C196,Njabulo Lombard,Male,1979-04-24,Stellenbosch,South Africa,Upper-Middle,njabulo.lombard196@gmail.com,0848531761,2026-05-20 21:18:03.947897
+C197,Mthulisi Coetzee,Male,1985-10-06,Sandton,South Africa,Middle,mthulisi.coetzee197@gmail.com,0718391997,2026-05-20 21:18:03.947897
+C198,Nomvula Smith,Female,2003-02-13,Centurion,South Africa,High,nomvula.smith198@gmail.com,0654350371,2026-05-20 21:18:03.947897
+C199,Sanjay Mkhize,Male,2001-02-11,Rustenburg,South Africa,Low,sanjay.mkhize199@gmail.com,0829655523,2026-05-20 21:18:03.947897
+C200,Mohammed Ngcobo,Male,1972-05-20,Kimberley,South Africa,High,mohammed.ngcobo200@gmail.com,0889612629,2026-05-20 21:18:03.947897
+C201,Sanele Ngcobo,Male,1977-12-02,Stellenbosch,South Africa,Upper-Middle,sanele.ngcobo201@gmail.com,0891447451,2026-05-20 21:18:03.947897
+C202,Thandeka Jones,Female,2003-01-14,Rustenburg,South Africa,Middle,thandeka.jones202@gmail.com,0722369112,2026-05-20 21:18:03.947897
+C203,Sunita Zulu,Female,1986-08-04,Pretoria,South Africa,Upper-Middle,sunita.zulu203@gmail.com,0853450300,2026-05-20 21:18:03.947897
+C204,Mandla Pretorius,Male,2000-05-21,Port Elizabeth,South Africa,High,mandla.pretorius204@gmail.com,0741088100,2026-05-20 21:18:03.947897
+C205,Sipho Fourie,Male,1977-05-07,Port Elizabeth,South Africa,High,sipho.fourie205@gmail.com,0635833542,2026-05-20 21:18:03.947897
+C206,Yusuf Modise,Male,1962-04-14,Pietermaritzburg,South Africa,High,yusuf.modise206@gmail.com,0808669093,2026-05-20 21:18:03.947897
+C207,Themba Govender,Male,1959-06-23,Centurion,South Africa,Middle,themba.govender207@gmail.com,0823408819,2026-05-20 21:18:03.947897
+C208,Nokukhanya Nkosi,Female,1989-08-27,Pietermaritzburg,South Africa,High,nokukhanya.nkosi208@gmail.com,0652436363,2026-05-20 21:18:03.947897
+C209,Precious Pillay,Female,2003-07-08,Centurion,South Africa,Low,precious.pillay209@gmail.com,0728887557,2026-05-20 21:18:03.947897
+C210,Musa Lombard,Male,1980-10-03,Johannesburg,South Africa,Upper-Middle,musa.lombard210@gmail.com,0852133461,2026-05-20 21:18:03.947897
+C211,Ayesha Mhlongo,Female,1967-04-20,Benoni,South Africa,Upper-Middle,ayesha.mhlongo211@gmail.com,0641743829,2026-05-20 21:18:03.947897
+C212,Nozipho de Villiers,Female,1973-09-16,Stellenbosch,South Africa,High,nozipho.de villiers212@gmail.com,0804058117,2026-05-20 21:18:03.947897
+C213,Kagiso Anderson,Male,1961-04-26,Nelspruit,South Africa,Middle,kagiso.anderson213@gmail.com,0614346548,2026-05-20 21:18:03.947897
+C214,Andile Joubert,Male,2004-03-28,George,South Africa,High,andile.joubert214@gmail.com,0681614394,2026-05-20 21:18:03.947897
+C215,Mohammed Steyn,Male,1962-04-16,Polokwane,South Africa,Upper-Middle,mohammed.steyn215@gmail.com,0637174337,2026-05-20 21:18:03.947897
+C216,Ntombifikile Taylor,Female,1992-09-08,Polokwane,South Africa,Middle,ntombifikile.taylor216@gmail.com,0759347057,2026-05-20 21:18:03.947897
+C217,Sbongile Smit,Female,1965-05-31,Paarl,South Africa,Low,sbongile.smit217@gmail.com,0734027557,2026-05-20 21:18:03.947897
+C218,Nokwanda Cele,Female,1965-03-08,Polokwane,South Africa,Upper-Middle,nokwanda.cele218@gmail.com,0698481225,2026-05-20 21:18:03.947897
+C219,Jennifer Taylor,Female,1989-07-16,Stellenbosch,South Africa,Low,jennifer.taylor219@gmail.com,0836914963,2026-05-20 21:18:03.947897
+C220,Zainab Mhlongo,Female,1963-02-23,Durban,South Africa,High,zainab.mhlongo220@gmail.com,0719608154,2026-05-20 21:18:03.947897
+C221,Sipho Moloi,Male,1997-04-24,Cape Town,South Africa,Middle,sipho.moloi221@gmail.com,0624959345,2026-05-20 21:18:03.947897
+C222,Siphokazi Smith,Female,1960-11-27,Boksburg,South Africa,Middle,siphokazi.smith222@gmail.com,0818548448,2026-05-20 21:18:03.947897
+C223,Siphokazi Taylor,Female,1964-11-24,Benoni,South Africa,Middle,siphokazi.taylor223@gmail.com,0767156398,2026-05-20 21:18:03.947897
+C224,Nokwanda Khoza,Female,1983-01-02,Pietermaritzburg,South Africa,Low,nokwanda.khoza224@gmail.com,0604121368,2026-05-20 21:18:03.947897
+C225,Sbongile Smith,Female,1968-07-25,Kimberley,South Africa,Upper-Middle,sbongile.smith225@gmail.com,0828487220,2026-05-20 21:18:03.947897
+C226,Mohammed Govender,Male,1975-12-17,Pretoria,South Africa,Middle,mohammed.govender226@gmail.com,0872242387,2026-05-20 21:18:03.947897
+C227,Linda Taylor,Female,1965-11-16,Polokwane,South Africa,Upper-Middle,linda.taylor227@gmail.com,0822089496,2026-05-20 21:18:03.947897
+C228,Thandi Radebe,Female,1973-08-14,Rustenburg,South Africa,Middle,thandi.radebe228@gmail.com,0634371891,2026-05-20 21:18:03.947897
+C229,Rajesh Govender,Male,1960-05-11,Rustenburg,South Africa,Upper-Middle,rajesh.govender229@gmail.com,0743177199,2026-05-20 21:18:03.947897
+C230,Kagiso Joubert,Male,1993-09-20,Sandton,South Africa,High,kagiso.joubert230@gmail.com,0847869154,2026-05-20 21:18:03.947897
+C231,Johan Kruger,Male,1964-08-27,Stellenbosch,South Africa,High,johan.kruger231@gmail.com,0819679860,2026-05-20 21:18:03.947897
+C232,Helena Moodley,Female,1974-04-29,Port Elizabeth,South Africa,High,helena.moodley232@gmail.com,0761929673,2026-05-20 21:18:03.947897
+C233,Thandolwethu Moloi,Male,1985-04-14,Bloemfontein,South Africa,Middle,thandolwethu.moloi233@gmail.com,0704782763,2026-05-20 21:18:03.947897
+C234,Sbongile Pretorius,Female,1965-01-28,Kimberley,South Africa,Middle,sbongile.pretorius234@gmail.com,0805604524,2026-05-20 21:18:03.947897
+C235,Yusuf Zwane,Male,2005-11-11,Durban,South Africa,Middle,yusuf.zwane235@gmail.com,0783586950,2026-05-20 21:18:03.947897
+C236,Lungelo Sithole,Male,1961-09-11,Johannesburg,South Africa,Low,lungelo.sithole236@gmail.com,0615440189,2026-05-20 21:18:03.947897
+C237,Buyani Williams,Male,1960-09-19,Sandton,South Africa,Upper-Middle,buyani.williams237@gmail.com,0806068298,2026-05-20 21:18:03.947897
+C238,Ayesha Jones,Female,1984-09-07,Stellenbosch,South Africa,Low,ayesha.jones238@gmail.com,0822005173,2026-05-20 21:18:03.947897
+C239,Mthokozisi Williams,Male,2001-06-11,Stellenbosch,South Africa,Middle,mthokozisi.williams239@gmail.com,0703410360,2026-05-20 21:18:03.947897
+C240,Nokwanda Steyn,Female,1993-10-09,Port Elizabeth,South Africa,Upper-Middle,nokwanda.steyn240@gmail.com,0762781470,2026-05-20 21:18:03.947897
+C241,Ayesha Anderson,Female,1968-12-28,Kimberley,South Africa,High,ayesha.anderson241@gmail.com,0673363534,2026-05-20 21:18:03.947897
+C242,Bongani Pretorius,Male,1992-06-18,Boksburg,South Africa,High,bongani.pretorius242@gmail.com,0673679315,2026-05-20 21:18:03.947897
+C243,Nokufa Kruger,Female,1975-01-12,Bloemfontein,South Africa,High,nokufa.kruger243@gmail.com,0768831858,2026-05-20 21:18:03.947897
+C244,Thandi Govender,Female,1960-01-30,Durban,South Africa,High,thandi.govender244@gmail.com,0768671057,2026-05-20 21:18:03.947897
+C245,Michael Shabalala,Male,1989-08-29,Cape Town,South Africa,Low,michael.shabalala245@gmail.com,0699302946,2026-05-20 21:18:03.947897
+C246,Nomvula Singh,Female,1958-09-25,Pretoria,South Africa,High,nomvula.singh246@gmail.com,0645437118,2026-05-20 21:18:03.947897
+C247,Ntombifikile Lombard,Female,1962-01-22,George,South Africa,Low,ntombifikile.lombard247@gmail.com,0784265774,2026-05-20 21:18:03.947897
+C248,Lungile Pretorius,Female,1964-08-06,George,South Africa,High,lungile.pretorius248@gmail.com,0845692934,2026-05-20 21:18:03.947897
+C249,Johan Cele,Male,1993-05-04,Rustenburg,South Africa,Upper-Middle,johan.cele249@gmail.com,0777133857,2026-05-20 21:18:03.947897
+C250,Robert Mthembu,Male,2003-09-04,George,South Africa,Low,robert.mthembu250@gmail.com,0611652868,2026-05-20 21:18:03.947897
+C251,Lungelo Naidoo,Male,2004-08-04,Stellenbosch,South Africa,Middle,lungelo.naidoo251@gmail.com,0799648751,2026-05-20 21:18:03.947897
+C252,Andile Zwane,Male,1986-07-30,Bloemfontein,South Africa,High,andile.zwane252@gmail.com,0796020319,2026-05-20 21:18:03.947897
+C253,Ntombi Reddy,Female,2005-10-04,Sandton,South Africa,Upper-Middle,ntombi.reddy253@gmail.com,0751279121,2026-05-20 21:18:03.947897
+C254,Busisiwe Modise,Female,1995-05-16,Benoni,South Africa,Upper-Middle,busisiwe.modise254@gmail.com,0851447065,2026-05-20 21:18:03.947897
+C255,Fatima Khoza,Female,1978-06-01,Cape Town,South Africa,High,fatima.khoza255@gmail.com,0659795159,2026-05-20 21:18:03.947897
+C256,Patricia Coetzee,Female,1960-10-31,Benoni,South Africa,Low,patricia.coetzee256@gmail.com,0661317716,2026-05-20 21:18:03.947897
+C257,Nokwanda Williams,Female,1971-08-03,Paarl,South Africa,Middle,nokwanda.williams257@gmail.com,0739419134,2026-05-20 21:18:03.947897
+C258,Thandeka Mokoena,Female,2004-07-14,East London,South Africa,Upper-Middle,thandeka.mokoena258@gmail.com,0819025733,2026-05-20 21:18:03.947897
+C259,Nokwanda Baloyi,Female,1999-03-29,Midrand,South Africa,Upper-Middle,nokwanda.baloyi259@gmail.com,0776943949,2026-05-20 21:18:03.947897
+C260,Nokuthula Gcaleka,Female,1980-02-12,Kimberley,South Africa,Upper-Middle,nokuthula.gcaleka260@gmail.com,0675993143,2026-05-20 21:18:03.947897
+C261,Neha Govender,Female,1986-06-11,Sandton,South Africa,Upper-Middle,neha.govender261@gmail.com,0775587856,2026-05-20 21:18:03.947897
+C262,Maria Sithole,Female,1992-01-24,George,South Africa,Upper-Middle,maria.sithole262@gmail.com,0843457461,2026-05-20 21:18:03.947897
+C263,Zanele Pretorius,Female,1965-02-02,Rustenburg,South Africa,High,zanele.pretorius263@gmail.com,0805302415,2026-05-20 21:18:03.947897
+C264,Neha Gcaleka,Female,1982-04-29,Midrand,South Africa,Upper-Middle,neha.gcaleka264@gmail.com,0642832517,2026-05-20 21:18:03.947897
+C265,Rajesh Mkhize,Male,2005-08-23,Pietermaritzburg,South Africa,Middle,rajesh.mkhize265@gmail.com,0612681042,2026-05-20 21:18:03.947897
+C266,Busisiwe Naidoo,Female,1967-01-08,Port Elizabeth,South Africa,Low,busisiwe.naidoo266@gmail.com,0773649811,2026-05-20 21:18:03.947897
+C267,Nokuthula Naidoo,Female,1975-11-23,Nelspruit,South Africa,Upper-Middle,nokuthula.naidoo267@gmail.com,0691992583,2026-05-20 21:18:03.947897
+C268,Buyani Botha,Male,1961-05-07,Bloemfontein,South Africa,High,buyani.botha268@gmail.com,0883949245,2026-05-20 21:18:03.947897
+C269,Sibusiso Govender,Male,1974-09-19,Nelspruit,South Africa,Low,sibusiso.govender269@gmail.com,0606006190,2026-05-20 21:18:03.947897
+C270,Lungelo Pretorius,Male,1998-10-06,Midrand,South Africa,High,lungelo.pretorius270@gmail.com,0883251501,2026-05-20 21:18:03.947897
+C271,Zainab Gcaleka,Female,1968-02-09,Polokwane,South Africa,Middle,zainab.gcaleka271@gmail.com,0838699307,2026-05-20 21:18:03.947897
+C272,Linda Nkosi,Female,1988-03-30,Nelspruit,South Africa,Middle,linda.nkosi272@gmail.com,0657802999,2026-05-20 21:18:03.947897
+C273,Ntombi Kruger,Female,1965-10-13,George,South Africa,Low,ntombi.kruger273@gmail.com,0653359075,2026-05-20 21:18:03.947897
+C274,Nokwanda Coetzee,Female,1958-08-12,Kimberley,South Africa,High,nokwanda.coetzee274@gmail.com,0678494978,2026-05-20 21:18:03.947897
+C275,Busisiwe Joubert,Female,1959-01-10,Kimberley,South Africa,Upper-Middle,busisiwe.joubert275@gmail.com,0824964499,2026-05-20 21:18:03.947897
+C276,Themba Anderson,Male,1985-07-11,Bloemfontein,South Africa,High,themba.anderson276@gmail.com,0819430894,2026-05-20 21:18:03.947897
+C277,Maria Mhlongo,Female,1984-06-20,Rustenburg,South Africa,Middle,maria.mhlongo277@gmail.com,0673240912,2026-05-20 21:18:03.947897
+C278,Patricia Anderson,Female,1991-07-09,Paarl,South Africa,High,patricia.anderson278@gmail.com,0844664338,2026-05-20 21:18:03.947897
+C279,Tshepo Pillay,Male,1998-01-30,Centurion,South Africa,Upper-Middle,tshepo.pillay279@gmail.com,0622882551,2026-05-20 21:18:03.947897
+C280,Nkosinathi Reddy,Male,1976-02-20,Benoni,South Africa,Middle,nkosinathi.reddy280@gmail.com,0656504900,2026-05-20 21:18:03.947897
+C281,Maria van der Merwe,Female,2001-11-08,Durban,South Africa,High,maria.van der merwe281@gmail.com,0851933413,2026-05-20 21:18:03.947897
+C282,Helena Reddy,Female,1995-04-09,Stellenbosch,South Africa,Low,helena.reddy282@gmail.com,0778757420,2026-05-20 21:18:03.947897
+C283,Nomsa Jones,Female,1980-10-30,Johannesburg,South Africa,Middle,nomsa.jones283@gmail.com,0782225232,2026-05-20 21:18:03.947897
+C284,Sanele Steyn,Male,1963-09-21,Midrand,South Africa,Low,sanele.steyn284@gmail.com,0892157949,2026-05-20 21:18:03.947897
+C285,Zanele Pretorius,Female,1994-09-06,Bloemfontein,South Africa,Middle,zanele.pretorius285@gmail.com,0848052503,2026-05-20 21:18:03.947897
+C286,Ayanda Taylor,Female,1991-11-13,George,South Africa,Low,ayanda.taylor286@gmail.com,0813231198,2026-05-20 21:18:03.947897
+C287,Maria Baloyi,Female,1993-04-06,Centurion,South Africa,Middle,maria.baloyi287@gmail.com,0834736121,2026-05-20 21:18:03.947897
+C288,Sipho Joubert,Male,1999-07-16,Midrand,South Africa,High,sipho.joubert288@gmail.com,0777363203,2026-05-20 21:18:03.947897
+C289,Rajesh Anderson,Male,1989-01-20,Port Elizabeth,South Africa,Upper-Middle,rajesh.anderson289@gmail.com,0662893218,2026-05-20 21:18:03.947897
+C290,Njabulo Zwane,Male,1959-05-28,Pietermaritzburg,South Africa,Middle,njabulo.zwane290@gmail.com,0622692765,2026-05-20 21:18:03.947897
+C291,Mthokozisi Mthembu,Male,1962-05-15,Pietermaritzburg,South Africa,Low,mthokozisi.mthembu291@gmail.com,0728364573,2026-05-20 21:18:03.947897
+C292,Mthulisi van der Merwe,Male,1963-01-24,Port Elizabeth,South Africa,Upper-Middle,mthulisi.van der merwe292@gmail.com,0676350316,2026-05-20 21:18:03.947897
+C293,Ayesha Joubert,Female,1970-11-08,Centurion,South Africa,Middle,ayesha.joubert293@gmail.com,0736041569,2026-05-20 21:18:03.947897
+C294,Thandeka Moodley,Female,1973-09-17,Paarl,South Africa,High,thandeka.moodley294@gmail.com,0616778321,2026-05-20 21:18:03.947897
+C295,Sbongile Kruger,Female,1995-05-09,Paarl,South Africa,Middle,sbongile.kruger295@gmail.com,0697315953,2026-05-20 21:18:03.947897
+C296,Mthulisi Naidoo,Male,1979-08-15,Pietermaritzburg,South Africa,Upper-Middle,mthulisi.naidoo296@gmail.com,0873421820,2026-05-20 21:18:03.947897
+C297,Thandeka Moodley,Female,1995-01-09,Paarl,South Africa,Middle,thandeka.moodley297@gmail.com,0725074489,2026-05-20 21:18:03.947897
+C298,Neha de Villiers,Female,1965-02-03,Stellenbosch,South Africa,Upper-Middle,neha.de villiers298@gmail.com,0629986473,2026-05-20 21:18:03.947897
+C299,Bongani Smit,Male,1991-11-03,Boksburg,South Africa,Low,bongani.smit299@gmail.com,0872221118,2026-05-20 21:18:03.947897
+C300,Mduduzi Moodley,Male,1977-06-21,Sandton,South Africa,Middle,mduduzi.moodley300@gmail.com,0876586214,2026-05-20 21:18:03.947897
+C301,Lerato van der Merwe,Female,1975-01-18,Pretoria,South Africa,High,lerato.van der merwe301@gmail.com,0895070038,2026-05-20 21:18:03.947897
+C302,Sibusiso Coetzee,Male,1986-11-08,Nelspruit,South Africa,High,sibusiso.coetzee302@gmail.com,0749953163,2026-05-20 21:18:03.947897
+C303,Thandi Fourie,Female,1990-04-07,Centurion,South Africa,High,thandi.fourie303@gmail.com,0742654371,2026-05-20 21:18:03.947897
+C304,Nokwanda van der Merwe,Female,1991-04-05,Polokwane,South Africa,High,nokwanda.van der merwe304@gmail.com,0614712363,2026-05-20 21:18:03.947897
+C305,Sipho Fourie,Male,1995-06-19,Nelspruit,South Africa,Middle,sipho.fourie305@gmail.com,0666534221,2026-05-20 21:18:03.947897
+C306,Musa Sithole,Male,1980-01-18,Sandton,South Africa,Upper-Middle,musa.sithole306@gmail.com,0689197701,2026-05-20 21:18:03.947897
+C307,Zodwa Radebe,Female,1989-08-06,Bloemfontein,South Africa,Middle,zodwa.radebe307@gmail.com,0839192588,2026-05-20 21:18:03.947897
+C308,Mthulisi Khoza,Male,1963-04-09,Centurion,South Africa,Low,mthulisi.khoza308@gmail.com,0862247057,2026-05-20 21:18:03.947897
+C309,Thabo Williams,Male,1970-05-03,Pietermaritzburg,South Africa,Low,thabo.williams309@gmail.com,0823533857,2026-05-20 21:18:03.947897
+C310,Michael Reddy,Male,1998-11-29,Rustenburg,South Africa,Low,michael.reddy310@gmail.com,0799106820,2026-05-20 21:18:03.947897
+C311,Nomsa Nkosi,Female,2005-09-30,Midrand,South Africa,High,nomsa.nkosi311@gmail.com,0601280618,2026-05-20 21:18:03.947897
+C312,Nozipho Pretorius,Female,1959-07-16,Centurion,South Africa,High,nozipho.pretorius312@gmail.com,0854007598,2026-05-20 21:18:03.947897
+C313,Mpho Pillay,Male,1971-05-12,Pietermaritzburg,South Africa,Middle,mpho.pillay313@gmail.com,0799832465,2026-05-20 21:18:03.947897
+C314,Nompumelelo Smit,Female,1993-08-10,Durban,South Africa,Upper-Middle,nompumelelo.smit314@gmail.com,0728700704,2026-05-20 21:18:03.947897
+C315,David Joubert,Male,1965-03-26,Cape Town,South Africa,Low,david.joubert315@gmail.com,0727362994,2026-05-20 21:18:03.947897
+C316,Lungile Naidoo,Female,1963-01-13,Johannesburg,South Africa,Middle,lungile.naidoo316@gmail.com,0629386232,2026-05-20 21:18:03.947897
+C317,Busisiwe Sithole,Female,1966-07-22,Centurion,South Africa,Low,busisiwe.sithole317@gmail.com,0674546989,2026-05-20 21:18:03.947897
+C318,Zainab Dlamini,Female,1964-09-02,Kimberley,South Africa,Low,zainab.dlamini318@gmail.com,0656276177,2026-05-20 21:18:03.947897
+C319,Michael Shabalala,Male,1970-12-08,George,South Africa,Low,michael.shabalala319@gmail.com,0693725462,2026-05-20 21:18:03.947897
+C320,Buyani Smith,Male,1987-10-06,George,South Africa,Middle,buyani.smith320@gmail.com,0852315798,2026-05-20 21:18:03.947897
+C321,Thandeka Cele,Female,1997-03-19,Pietermaritzburg,South Africa,Low,thandeka.cele321@gmail.com,0707655572,2026-05-20 21:18:03.947897
+C322,Nomsa Mhlongo,Female,1982-07-10,Stellenbosch,South Africa,High,nomsa.mhlongo322@gmail.com,0676969521,2026-05-20 21:18:03.947897
+C323,Nokukhanya Baloyi,Female,1992-02-06,Durban,South Africa,Upper-Middle,nokukhanya.baloyi323@gmail.com,0855134741,2026-05-20 21:18:03.947897
+C324,Tshepo Smit,Male,1971-11-02,George,South Africa,Middle,tshepo.smit324@gmail.com,0837536772,2026-05-20 21:18:03.947897
+C325,Siphokazi Cele,Female,1966-03-18,Johannesburg,South Africa,Upper-Middle,siphokazi.cele325@gmail.com,0747038413,2026-05-20 21:18:03.947897
+C326,Elsie Mokoena,Female,1965-10-31,Bloemfontein,South Africa,High,elsie.mokoena326@gmail.com,0749597330,2026-05-20 21:18:03.947897
+C327,Elsie Zulu,Female,1966-01-15,Rustenburg,South Africa,Low,elsie.zulu327@gmail.com,0796443037,2026-05-20 21:18:03.947897
+C328,Lerato Pretorius,Female,1995-02-15,George,South Africa,Low,lerato.pretorius328@gmail.com,0835072543,2026-05-20 21:18:03.947897
+C329,Musa Radebe,Male,1970-06-16,Kimberley,South Africa,Upper-Middle,musa.radebe329@gmail.com,0689273246,2026-05-20 21:18:03.947897
+C330,Kagiso Radebe,Male,1996-12-30,Kimberley,South Africa,High,kagiso.radebe330@gmail.com,0699124053,2026-05-20 21:18:03.947897
+C331,Sifiso Fourie,Male,1980-02-15,Sandton,South Africa,Middle,sifiso.fourie331@gmail.com,0742794698,2026-05-20 21:18:03.947897
+C332,Yusuf Nkosi,Male,1993-07-02,Polokwane,South Africa,High,yusuf.nkosi332@gmail.com,0856528792,2026-05-20 21:18:03.947897
+C333,Busisiwe Brown,Female,1970-03-19,Nelspruit,South Africa,Upper-Middle,busisiwe.brown333@gmail.com,0794369728,2026-05-20 21:18:03.947897
+C334,Nokwanda Baloyi,Female,1993-09-23,Polokwane,South Africa,Upper-Middle,nokwanda.baloyi334@gmail.com,0839237735,2026-05-20 21:18:03.947897
+C335,Andile Smith,Male,1983-02-23,George,South Africa,Upper-Middle,andile.smith335@gmail.com,0634352088,2026-05-20 21:18:03.947897
+C336,Nkosinathi Zulu,Male,1999-06-01,East London,South Africa,High,nkosinathi.zulu336@gmail.com,0855887726,2026-05-20 21:18:03.947897
+C337,Njabulo Govender,Male,1970-06-27,Nelspruit,South Africa,Middle,njabulo.govender337@gmail.com,0683586094,2026-05-20 21:18:03.947897
+C338,Ayanda Ndlovu,Female,1998-04-16,Boksburg,South Africa,High,ayanda.ndlovu338@gmail.com,0787724393,2026-05-20 21:18:03.947897
+C339,Nozipho Dlamini,Female,1990-04-04,Midrand,South Africa,Low,nozipho.dlamini339@gmail.com,0635164624,2026-05-20 21:18:03.947897
+C340,Jennifer Khoza,Female,1961-12-22,Benoni,South Africa,High,jennifer.khoza340@gmail.com,0846563269,2026-05-20 21:18:03.947897
+C341,Elsie Nkosi,Female,1966-11-06,Kimberley,South Africa,Middle,elsie.nkosi341@gmail.com,0769703982,2026-05-20 21:18:03.947897
+C342,Mthokozisi Lombard,Male,1993-02-02,Stellenbosch,South Africa,Middle,mthokozisi.lombard342@gmail.com,0711412092,2026-05-20 21:18:03.947897
+C343,Elsie Pretorius,Female,1995-04-27,Durban,South Africa,Low,elsie.pretorius343@gmail.com,0863376915,2026-05-20 21:18:03.947897
+C344,Thandi de Villiers,Female,1998-11-07,East London,South Africa,High,thandi.de villiers344@gmail.com,0718988681,2026-05-20 21:18:03.947897
+C345,Mthokozisi Taylor,Male,1986-08-12,Durban,South Africa,Upper-Middle,mthokozisi.taylor345@gmail.com,0612930810,2026-05-20 21:18:03.947897
+C346,Lungelo Khoza,Male,1967-10-24,Bloemfontein,South Africa,Middle,lungelo.khoza346@gmail.com,0763926839,2026-05-20 21:18:03.947897
+C347,Lungelo Moodley,Male,1996-04-02,Stellenbosch,South Africa,Middle,lungelo.moodley347@gmail.com,0857795568,2026-05-20 21:18:03.947897
+C348,James Mhlongo,Male,1996-10-08,George,South Africa,Low,james.mhlongo348@gmail.com,0834310554,2026-05-20 21:18:03.947897
+C349,Nobuhle Brown,Female,1992-11-19,Johannesburg,South Africa,Middle,nobuhle.brown349@gmail.com,0665669851,2026-05-20 21:18:03.947897
+C350,Buyani Cele,Male,1974-10-10,Rustenburg,South Africa,Upper-Middle,buyani.cele350@gmail.com,0668676422,2026-05-20 21:18:03.947897
+C351,Sanjay Govender,Male,2005-05-06,Polokwane,South Africa,High,sanjay.govender351@gmail.com,0797585795,2026-05-20 21:18:03.947897
+C352,Nhlanhla Steyn,Male,1999-01-29,Boksburg,South Africa,Middle,nhlanhla.steyn352@gmail.com,0865990296,2026-05-20 21:18:03.947897
+C353,Johan Kruger,Male,1968-07-29,Pietermaritzburg,South Africa,Upper-Middle,johan.kruger353@gmail.com,0634070977,2026-05-20 21:18:03.947897
+C354,Patricia Reddy,Female,1992-11-07,Paarl,South Africa,Middle,patricia.reddy354@gmail.com,0787437584,2026-05-20 21:18:03.947897
+C355,Linda Govender,Female,1973-07-17,Midrand,South Africa,Middle,linda.govender355@gmail.com,0755845843,2026-05-20 21:18:03.947897
+C356,James Kruger,Male,1998-06-18,Boksburg,South Africa,Low,james.kruger356@gmail.com,0877023677,2026-05-20 21:18:03.947897
+C357,Lwazi Mokoena,Male,1975-07-04,George,South Africa,High,lwazi.mokoena357@gmail.com,0739249791,2026-05-20 21:18:03.947897
+C358,Simangele Govender,Female,1973-01-02,Durban,South Africa,Low,simangele.govender358@gmail.com,0854699871,2026-05-20 21:18:03.947897
+C359,Zanele Smit,Female,1978-03-04,Midrand,South Africa,Upper-Middle,zanele.smit359@gmail.com,0658672579,2026-05-20 21:18:03.947897
+C360,Lungile Reddy,Female,1968-02-27,Benoni,South Africa,Low,lungile.reddy360@gmail.com,0687154919,2026-05-20 21:18:03.947897
+C361,Mthokozisi Singh,Male,1977-08-10,Paarl,South Africa,Low,mthokozisi.singh361@gmail.com,0835152891,2026-05-20 21:18:03.947897
+C362,Zanele Taylor,Female,1981-07-30,Rustenburg,South Africa,Low,zanele.taylor362@gmail.com,0742969410,2026-05-20 21:18:03.947897
+C363,Michael Shabalala,Male,1989-06-16,Boksburg,South Africa,High,michael.shabalala363@gmail.com,0653335975,2026-05-20 21:18:03.947897
+C364,Michael Mkhize,Male,1989-06-22,Midrand,South Africa,Upper-Middle,michael.mkhize364@gmail.com,0793824903,2026-05-20 21:18:03.947897
+C365,Nomvula Pretorius,Female,1981-12-26,Centurion,South Africa,Low,nomvula.pretorius365@gmail.com,0647905438,2026-05-20 21:18:03.947897
+C366,Amit Khoza,Male,1969-05-20,Port Elizabeth,South Africa,Middle,amit.khoza366@gmail.com,0646403886,2026-05-20 21:18:03.947897
+C367,Sibusiso Govender,Male,1970-10-03,Benoni,South Africa,Upper-Middle,sibusiso.govender367@gmail.com,0807949543,2026-05-20 21:18:03.947897
+C368,Simangele Ndlovu,Female,1966-05-09,George,South Africa,Upper-Middle,simangele.ndlovu368@gmail.com,0827191986,2026-05-20 21:18:03.947897
+C369,Noxolo Kruger,Female,1958-03-23,Durban,South Africa,High,noxolo.kruger369@gmail.com,0807009980,2026-05-20 21:18:03.947897
+C370,Mthulisi Jones,Male,1977-07-17,Paarl,South Africa,Middle,mthulisi.jones370@gmail.com,0755505300,2026-05-20 21:18:03.947897
+C371,Nomvula de Villiers,Female,1969-09-19,Benoni,South Africa,High,nomvula.de villiers371@gmail.com,0856766993,2026-05-20 21:18:03.947897
+C372,Mandla Cele,Male,1999-03-26,Johannesburg,South Africa,Low,mandla.cele372@gmail.com,0893650523,2026-05-20 21:18:03.947897
+C373,Zodwa Nkosi,Female,1996-05-19,East London,South Africa,Middle,zodwa.nkosi373@gmail.com,0886064462,2026-05-20 21:18:03.947897
+C374,Amit Ngcobo,Male,1990-05-03,Kimberley,South Africa,Low,amit.ngcobo374@gmail.com,0713777050,2026-05-20 21:18:03.947897
+C375,Sibusiso Mhlongo,Male,1985-05-29,Pietermaritzburg,South Africa,High,sibusiso.mhlongo375@gmail.com,0802530068,2026-05-20 21:18:03.947897
+C376,Thabo van der Merwe,Male,2000-10-11,Durban,South Africa,Middle,thabo.van der merwe376@gmail.com,0784794852,2026-05-20 21:18:03.947897
+C377,Lerato Nkosi,Female,1988-10-28,Pretoria,South Africa,High,lerato.nkosi377@gmail.com,0823217531,2026-05-20 21:18:03.947897
+C378,Precious Botha,Female,1992-05-14,Durban,South Africa,Low,precious.botha378@gmail.com,0636257165,2026-05-20 21:18:03.947897
+C379,Thandi Mokoena,Female,1992-05-03,Port Elizabeth,South Africa,Middle,thandi.mokoena379@gmail.com,0629900451,2026-05-20 21:18:03.947897
+C380,Francois Taylor,Male,1989-07-04,East London,South Africa,Middle,francois.taylor380@gmail.com,0897907345,2026-05-20 21:18:03.947897
+C381,Neha Ngcobo,Female,1967-01-06,Port Elizabeth,South Africa,Low,neha.ngcobo381@gmail.com,0787442986,2026-05-20 21:18:03.947897
+C382,Nokukhanya Kruger,Female,1970-07-18,Pietermaritzburg,South Africa,Upper-Middle,nokukhanya.kruger382@gmail.com,0802413458,2026-05-20 21:18:03.947897
+C383,Nkosinathi Mthembu,Male,1983-07-25,Johannesburg,South Africa,Upper-Middle,nkosinathi.mthembu383@gmail.com,0669686388,2026-05-20 21:18:03.947897
+C384,Sibusiso Pretorius,Male,1962-11-24,Pietermaritzburg,South Africa,High,sibusiso.pretorius384@gmail.com,0722891524,2026-05-20 21:18:03.947897
+C385,Lwazi Mhlongo,Male,1964-05-15,Centurion,South Africa,Low,lwazi.mhlongo385@gmail.com,0716309530,2026-05-20 21:18:03.947897
+C386,Musa Sithole,Male,1995-10-04,Rustenburg,South Africa,Middle,musa.sithole386@gmail.com,0848902314,2026-05-20 21:18:03.947897
+C387,Sipho Shabalala,Male,1964-01-22,Johannesburg,South Africa,Upper-Middle,sipho.shabalala387@gmail.com,0661668183,2026-05-20 21:18:03.947897
+C388,Sibusiso Reddy,Male,1983-09-14,Centurion,South Africa,High,sibusiso.reddy388@gmail.com,0737749095,2026-05-20 21:18:03.947897
+C389,Mthulisi Singh,Male,1971-09-13,Kimberley,South Africa,Low,mthulisi.singh389@gmail.com,0692325761,2026-05-20 21:18:03.947897
+C390,Hendrik Singh,Male,1987-04-25,George,South Africa,Low,hendrik.singh390@gmail.com,0698339797,2026-05-20 21:18:03.947897
+C391,Bongani Coetzee,Male,1965-09-26,Paarl,South Africa,Low,bongani.coetzee391@gmail.com,0741923227,2026-05-20 21:18:03.947897
+C392,Linda Modise,Female,1959-02-20,Port Elizabeth,South Africa,Low,linda.modise392@gmail.com,0659328426,2026-05-20 21:18:03.947897
+C393,Sbongile Pillay,Female,1981-04-05,Bloemfontein,South Africa,Upper-Middle,sbongile.pillay393@gmail.com,0645509119,2026-05-20 21:18:03.947897
+C394,Sipho de Villiers,Male,1996-07-08,Kimberley,South Africa,Low,sipho.de villiers394@gmail.com,0682293020,2026-05-20 21:18:03.947897
+C395,Zodwa Reddy,Female,1990-04-23,Cape Town,South Africa,High,zodwa.reddy395@gmail.com,0873799805,2026-05-20 21:18:03.947897
+C396,Jennifer Fourie,Female,1967-03-26,Benoni,South Africa,Low,jennifer.fourie396@gmail.com,0679536665,2026-05-20 21:18:03.947897
+C397,Mandla Nkosi,Male,1979-12-10,Cape Town,South Africa,High,mandla.nkosi397@gmail.com,0717425329,2026-05-20 21:18:03.947897
+C398,James Dlamini,Male,1995-08-16,Pietermaritzburg,South Africa,Upper-Middle,james.dlamini398@gmail.com,0677983626,2026-05-20 21:18:03.947897
+C399,Zainab Ndlovu,Female,1991-06-13,Pretoria,South Africa,Low,zainab.ndlovu399@gmail.com,0654744423,2026-05-20 21:18:03.947897
+C400,Sibusiso Ndlovu,Male,1999-09-23,Nelspruit,South Africa,Upper-Middle,sibusiso.ndlovu400@gmail.com,0702449308,2026-05-20 21:18:03.947897
+C401,Lerato Lombard,Female,1976-01-02,Nelspruit,South Africa,Upper-Middle,lerato.lombard401@gmail.com,0835069884,2026-05-20 21:18:03.947897
+C402,Siphokazi Shabalala,Female,2002-04-06,East London,South Africa,Middle,siphokazi.shabalala402@gmail.com,0641107003,2026-05-20 21:18:03.947897
+C403,Nomsa Botha,Female,1989-01-29,Johannesburg,South Africa,Upper-Middle,nomsa.botha403@gmail.com,0607312844,2026-05-20 21:18:03.947897
+C404,Elsie van der Merwe,Female,2005-07-13,Pietermaritzburg,South Africa,High,elsie.van der merwe404@gmail.com,0752004872,2026-05-20 21:18:03.947897
+C405,Amit Ngcobo,Male,1961-12-09,Pietermaritzburg,South Africa,High,amit.ngcobo405@gmail.com,0827249378,2026-05-20 21:18:03.947897
+C406,Naledi Shabalala,Female,1966-07-29,Centurion,South Africa,Middle,naledi.shabalala406@gmail.com,0807616116,2026-05-20 21:18:03.947897
+C407,Mduduzi Sithole,Male,1963-08-03,Paarl,South Africa,Middle,mduduzi.sithole407@gmail.com,0675893511,2026-05-20 21:18:03.947897
+C408,Nokwanda Jones,Female,1987-04-09,Polokwane,South Africa,High,nokwanda.jones408@gmail.com,0684919346,2026-05-20 21:18:03.947897
+C409,Robert Mokoena,Male,1967-10-11,Port Elizabeth,South Africa,Low,robert.mokoena409@gmail.com,0658542478,2026-05-20 21:18:03.947897
+C410,Nokwanda Williams,Female,1968-10-31,Midrand,South Africa,Upper-Middle,nokwanda.williams410@gmail.com,0844483557,2026-05-20 21:18:03.947897
+C411,Thandi Anderson,Female,1981-10-10,Pretoria,South Africa,Low,thandi.anderson411@gmail.com,0656103880,2026-05-20 21:18:03.947897
+C412,Michael Kruger,Male,1971-04-23,Durban,South Africa,Middle,michael.kruger412@gmail.com,0717647878,2026-05-20 21:18:03.947897
+C413,Yusuf Fourie,Male,1973-08-07,Johannesburg,South Africa,High,yusuf.fourie413@gmail.com,0878586676,2026-05-20 21:18:03.947897
+C414,Mpho Anderson,Male,1967-02-22,Port Elizabeth,South Africa,Low,mpho.anderson414@gmail.com,0602034637,2026-05-20 21:18:03.947897
+C415,Johan Gcaleka,Male,1993-12-09,Rustenburg,South Africa,Low,johan.gcaleka415@gmail.com,0785342289,2026-05-20 21:18:03.947897
+C416,Sipho Ndlovu,Male,1975-09-28,Stellenbosch,South Africa,Middle,sipho.ndlovu416@gmail.com,0626562484,2026-05-20 21:18:03.947897
+C417,Mandla Anderson,Male,1962-07-18,Bloemfontein,South Africa,High,mandla.anderson417@gmail.com,0867626978,2026-05-20 21:18:03.947897
+C418,Nomsa Smith,Female,1996-04-11,Bloemfontein,South Africa,Upper-Middle,nomsa.smith418@gmail.com,0664139874,2026-05-20 21:18:03.947897
+C419,Zainab Taylor,Female,1971-05-03,Cape Town,South Africa,Middle,zainab.taylor419@gmail.com,0805951043,2026-05-20 21:18:03.947897
+C420,Lindiwe Moodley,Female,2000-12-22,Cape Town,South Africa,Low,lindiwe.moodley420@gmail.com,0687425930,2026-05-20 21:18:03.947897
+C421,Njabulo Gcaleka,Male,2005-03-04,Pietermaritzburg,South Africa,Low,njabulo.gcaleka421@gmail.com,0727024901,2026-05-20 21:18:03.947897
+C422,Nozipho Govender,Female,1988-11-12,Benoni,South Africa,Upper-Middle,nozipho.govender422@gmail.com,0725537157,2026-05-20 21:18:03.947897
+C423,Sipho Kruger,Male,1977-08-25,Johannesburg,South Africa,Upper-Middle,sipho.kruger423@gmail.com,0618913550,2026-05-20 21:18:03.947897
+C424,Nobuhle Botha,Female,1972-04-27,Pretoria,South Africa,Middle,nobuhle.botha424@gmail.com,0815045872,2026-05-20 21:18:03.947897
+C425,Nozipho Mkhize,Female,1977-09-07,Benoni,South Africa,High,nozipho.mkhize425@gmail.com,0713914404,2026-05-20 21:18:03.947897
+C426,Rajesh Shabalala,Male,1986-07-13,Rustenburg,South Africa,Low,rajesh.shabalala426@gmail.com,0826900247,2026-05-20 21:18:03.947897
+C427,Buyani Gcaleka,Male,2002-02-28,Midrand,South Africa,Upper-Middle,buyani.gcaleka427@gmail.com,0659228157,2026-05-20 21:18:03.947897
+C428,Tshepo Mkhize,Male,1978-11-14,Boksburg,South Africa,Middle,tshepo.mkhize428@gmail.com,0609832340,2026-05-20 21:18:03.947897
+C429,Lerato de Villiers,Female,1976-01-28,Port Elizabeth,South Africa,Upper-Middle,lerato.de villiers429@gmail.com,0823977282,2026-05-20 21:18:03.947897
+C430,Thandeka Zulu,Female,1971-04-03,Benoni,South Africa,Middle,thandeka.zulu430@gmail.com,0842860938,2026-05-20 21:18:03.947897
+C431,Precious Lombard,Female,1993-06-28,Benoni,South Africa,Low,precious.lombard431@gmail.com,0706062779,2026-05-20 21:18:03.947897
+C432,Helena Radebe,Female,1997-03-12,Sandton,South Africa,Upper-Middle,helena.radebe432@gmail.com,0656986539,2026-05-20 21:18:03.947897
+C433,Mduduzi Baloyi,Male,1991-12-12,Nelspruit,South Africa,Upper-Middle,mduduzi.baloyi433@gmail.com,0643981450,2026-05-20 21:18:03.947897
+C434,Buyani Jones,Male,1960-11-27,Bloemfontein,South Africa,Upper-Middle,buyani.jones434@gmail.com,0894706007,2026-05-20 21:18:03.947897
+C435,Lwazi Moloi,Male,1987-09-17,Durban,South Africa,Middle,lwazi.moloi435@gmail.com,0716360633,2026-05-20 21:18:03.947897
+C436,Tshepo Mhlongo,Male,1988-02-14,Stellenbosch,South Africa,Low,tshepo.mhlongo436@gmail.com,0684517918,2026-05-20 21:18:03.963914
+C437,Kagiso Steyn,Male,1981-01-10,Pretoria,South Africa,Low,kagiso.steyn437@gmail.com,0617474950,2026-05-20 21:18:03.963914
+C438,Lindiwe Radebe,Female,1995-02-22,Sandton,South Africa,High,lindiwe.radebe438@gmail.com,0717297287,2026-05-20 21:18:03.963914
+C439,Lethiwe Sithole,Male,1978-03-28,Bloemfontein,South Africa,High,lethiwe.sithole439@gmail.com,0621560573,2026-05-20 21:18:03.963914
+C440,Nomsa Kruger,Female,1981-06-05,Pretoria,South Africa,Low,nomsa.kruger440@gmail.com,0703853891,2026-05-20 21:18:03.963914
+C441,Jennifer Ndlovu,Female,1966-05-09,Polokwane,South Africa,High,jennifer.ndlovu441@gmail.com,0821519979,2026-05-20 21:18:03.963914
+C442,Jennifer Mthembu,Female,1996-12-14,Bloemfontein,South Africa,Low,jennifer.mthembu442@gmail.com,0636554845,2026-05-20 21:18:03.965937
+C443,Robert Williams,Male,1981-10-19,Nelspruit,South Africa,Upper-Middle,robert.williams443@gmail.com,0672609202,2026-05-20 21:18:03.965937
+C444,Sibusiso Sithole,Male,2002-01-17,Port Elizabeth,South Africa,Low,sibusiso.sithole444@gmail.com,0711064014,2026-05-20 21:18:03.965937
+C445,Naledi Pretorius,Female,2001-02-03,East London,South Africa,Low,naledi.pretorius445@gmail.com,0604472094,2026-05-20 21:18:03.965937
+C446,Mohammed Ngcobo,Male,2000-06-26,Pretoria,South Africa,Upper-Middle,mohammed.ngcobo446@gmail.com,0857668395,2026-05-20 21:18:03.965937
+C447,Noxolo Fourie,Female,1966-03-06,Midrand,South Africa,High,noxolo.fourie447@gmail.com,0657224691,2026-05-20 21:18:03.965937
+C448,Siphokazi Baloyi,Female,1997-12-29,Cape Town,South Africa,Upper-Middle,siphokazi.baloyi448@gmail.com,0748802377,2026-05-20 21:18:03.965937
+C449,Sunita Smit,Female,1963-07-13,Port Elizabeth,South Africa,Low,sunita.smit449@gmail.com,0626767862,2026-05-20 21:18:03.965937
+C450,Nobuhle Botha,Female,1963-06-22,George,South Africa,High,nobuhle.botha450@gmail.com,0778966231,2026-05-20 21:18:03.965937
+C451,Lethiwe Joubert,Male,1965-01-31,George,South Africa,Low,lethiwe.joubert451@gmail.com,0769670757,2026-05-20 21:18:03.965937
+C452,Themba Taylor,Male,1973-07-05,Bloemfontein,South Africa,Middle,themba.taylor452@gmail.com,0854233407,2026-05-20 21:18:03.965937
+C453,Mandla Brown,Male,1965-01-11,Paarl,South Africa,Middle,mandla.brown453@gmail.com,0863480985,2026-05-20 21:18:03.965937
+C454,Nokwanda Ndlovu,Female,1965-10-22,George,South Africa,High,nokwanda.ndlovu454@gmail.com,0776471499,2026-05-20 21:18:03.965937
+C455,Sbongile Anderson,Female,1959-02-10,Boksburg,South Africa,High,sbongile.anderson455@gmail.com,0637953189,2026-05-20 21:18:03.965937
+C456,Hendrik Sithole,Male,1966-12-28,Pretoria,South Africa,Low,hendrik.sithole456@gmail.com,0855799841,2026-05-20 21:18:03.965937
+C457,Lindiwe Fourie,Female,1992-05-13,Sandton,South Africa,High,lindiwe.fourie457@gmail.com,0613889032,2026-05-20 21:18:03.965937
+C458,Ntombifikile Moloi,Female,1994-01-15,Cape Town,South Africa,High,ntombifikile.moloi458@gmail.com,0886561547,2026-05-20 21:18:03.965937
+C459,Bongani Naidoo,Male,1982-02-04,Rustenburg,South Africa,Low,bongani.naidoo459@gmail.com,0706084418,2026-05-20 21:18:03.965937
+C460,Zainab Govender,Female,1966-10-24,Pietermaritzburg,South Africa,Middle,zainab.govender460@gmail.com,0698434162,2026-05-20 21:18:03.965937
+C461,Zainab Williams,Female,1966-01-04,East London,South Africa,High,zainab.williams461@gmail.com,0667831185,2026-05-20 21:18:03.965937
+C462,Sbongile Lombard,Female,1963-01-16,Centurion,South Africa,Middle,sbongile.lombard462@gmail.com,0626219779,2026-05-20 21:18:03.965937
+C463,Helena Pillay,Female,1960-08-06,Bloemfontein,South Africa,Middle,helena.pillay463@gmail.com,0884367636,2026-05-20 21:18:03.965937
+C464,Rajesh Dlamini,Male,1998-12-13,Cape Town,South Africa,Upper-Middle,rajesh.dlamini464@gmail.com,0824340507,2026-05-20 21:18:03.965937
+C465,Siphokazi Anderson,Female,2003-04-26,George,South Africa,Low,siphokazi.anderson465@gmail.com,0811512765,2026-05-20 21:18:03.965937
+C466,Sifiso Govender,Male,1998-01-08,Bloemfontein,South Africa,High,sifiso.govender466@gmail.com,0786867997,2026-05-20 21:18:03.965937
+C467,Jennifer Fourie,Female,1966-02-09,Nelspruit,South Africa,Low,jennifer.fourie467@gmail.com,0721833006,2026-05-20 21:18:03.965937
+C468,Buyani van der Merwe,Male,1977-11-10,Pietermaritzburg,South Africa,Middle,buyani.van der merwe468@gmail.com,0687870390,2026-05-20 21:18:03.965937
+C469,Thabo Naidoo,Male,1969-11-14,Bloemfontein,South Africa,Low,thabo.naidoo469@gmail.com,0675234408,2026-05-20 21:18:03.965937
+C470,Zainab Brown,Female,1991-10-11,Rustenburg,South Africa,High,zainab.brown470@gmail.com,0684660940,2026-05-20 21:18:03.965937
+C471,Thandi Pillay,Female,1993-08-18,Benoni,South Africa,Low,thandi.pillay471@gmail.com,0609581776,2026-05-20 21:18:03.965937
+C472,Lungile Khoza,Female,1983-05-12,Nelspruit,South Africa,Low,lungile.khoza472@gmail.com,0752071008,2026-05-20 21:18:03.965937
+C473,Zainab Mhlongo,Female,1987-03-04,Kimberley,South Africa,Upper-Middle,zainab.mhlongo473@gmail.com,0806012883,2026-05-20 21:18:03.965937
+C474,Hendrik Pillay,Male,1979-07-24,Cape Town,South Africa,High,hendrik.pillay474@gmail.com,0816361758,2026-05-20 21:18:03.965937
+C475,Sipho Khoza,Male,2002-08-15,Nelspruit,South Africa,Upper-Middle,sipho.khoza475@gmail.com,0898022366,2026-05-20 21:18:03.965937
+C476,Ayanda Dlamini,Female,1975-01-15,Polokwane,South Africa,Middle,ayanda.dlamini476@gmail.com,0819969688,2026-05-20 21:18:03.965937
+C477,Nompumelelo Reddy,Female,1984-12-06,Bloemfontein,South Africa,Middle,nompumelelo.reddy477@gmail.com,0692637507,2026-05-20 21:18:03.965937
+C478,Helena Fourie,Female,1974-06-04,Polokwane,South Africa,Low,helena.fourie478@gmail.com,0676960666,2026-05-20 21:18:03.965937
+C479,Yusuf Williams,Male,1987-09-22,Rustenburg,South Africa,Upper-Middle,yusuf.williams479@gmail.com,0785933359,2026-05-20 21:18:03.967965
+C480,Maria Naidoo,Female,1962-10-25,Benoni,South Africa,Low,maria.naidoo480@gmail.com,0754263903,2026-05-20 21:18:03.967965
+C481,Musa Pillay,Male,1984-10-07,Paarl,South Africa,Low,musa.pillay481@gmail.com,0873529642,2026-05-20 21:18:03.967965
+C482,Robert de Villiers,Male,1994-09-17,Benoni,South Africa,High,robert.de villiers482@gmail.com,0646308033,2026-05-20 21:18:03.967965
+C483,Tshepo Govender,Male,1987-11-04,Bloemfontein,South Africa,Upper-Middle,tshepo.govender483@gmail.com,0801973306,2026-05-20 21:18:03.967965
+C484,Mthokozisi Smit,Male,1976-10-14,Bloemfontein,South Africa,Middle,mthokozisi.smit484@gmail.com,0752477088,2026-05-20 21:18:03.967965
+C485,Sanele Mhlongo,Male,1996-07-10,George,South Africa,High,sanele.mhlongo485@gmail.com,0757430982,2026-05-20 21:18:03.967965
+C486,Mandla Singh,Male,1975-11-22,Rustenburg,South Africa,Low,mandla.singh486@gmail.com,0886405839,2026-05-20 21:18:03.967965
+C487,Sipho Nkosi,Male,1980-04-28,Pietermaritzburg,South Africa,Upper-Middle,sipho.nkosi487@gmail.com,0693163099,2026-05-20 21:18:03.967965
+C488,Musa Reddy,Male,1985-06-18,Bloemfontein,South Africa,Low,musa.reddy488@gmail.com,0861767026,2026-05-20 21:18:03.967965
+C489,Nomvula Anderson,Female,2004-09-04,Boksburg,South Africa,Upper-Middle,nomvula.anderson489@gmail.com,0733244614,2026-05-20 21:18:03.967965
+C490,Noxolo Steyn,Female,1974-11-27,Bloemfontein,South Africa,High,noxolo.steyn490@gmail.com,0604832222,2026-05-20 21:18:03.967965
+C491,Johan van der Merwe,Male,1959-12-20,Benoni,South Africa,Middle,johan.van der merwe491@gmail.com,0637150383,2026-05-20 21:18:03.967965
+C492,Musa Mhlongo,Male,1980-12-12,Midrand,South Africa,Low,musa.mhlongo492@gmail.com,0791804641,2026-05-20 21:18:03.967965
+C493,Sipho Mkhize,Male,1968-05-22,Paarl,South Africa,High,sipho.mkhize493@gmail.com,0723073581,2026-05-20 21:18:03.967965
+C494,Nokuthula Moloi,Female,1976-06-08,Johannesburg,South Africa,Upper-Middle,nokuthula.moloi494@gmail.com,0732694160,2026-05-20 21:18:03.967965
+C495,Helena Williams,Female,1967-05-31,Centurion,South Africa,Low,helena.williams495@gmail.com,0692912813,2026-05-20 21:18:03.967965
+C496,Lwazi Gcaleka,Male,1975-12-03,Kimberley,South Africa,Middle,lwazi.gcaleka496@gmail.com,0717874568,2026-05-20 21:18:03.967965
+C497,Jennifer Dlamini,Female,2002-07-13,East London,South Africa,High,jennifer.dlamini497@gmail.com,0704934345,2026-05-20 21:18:03.967965
+C498,Thabo Ngcobo,Male,1967-11-28,Benoni,South Africa,High,thabo.ngcobo498@gmail.com,0642511336,2026-05-20 21:18:03.967965
+C499,Mpho Fourie,Male,1978-09-27,Stellenbosch,South Africa,Upper-Middle,mpho.fourie499@gmail.com,0688789281,2026-05-20 21:18:03.969893
+C500,Mpho Baloyi,Male,1961-07-16,Nelspruit,South Africa,Upper-Middle,mpho.baloyi500@gmail.com,0856246354,2026-05-20 21:18:03.969893
+C001,Sipho Smit,female,1979-12-21,Pietermaritzburg,South Africa,Middle,sipho.smit1@gmail.com,0832719583,2026-05-20 21:18:03.947897
+C002,Mduduzi Brown,male,1960-11-07,Johannesburg,South Africa,Low,mduduzi.brown2@gmail.com,0664903402,2026-05-20 21:18:03.947897
+C003,Nkosinathi Gcaleka,male,1995-08-21,Pietermaritzburg,South Africa,High,nkosinathi.gcaleka3@gmail.com,0785667265,2026-05-20 21:18:03.947897
+C004,Francois Brown,male,1988-07-11,Kimberley,South Africa,Middle,francois.brown4@gmail.com,0666647119,2026-05-20 21:18:03.947897
+C005,Tshepo Smith,male,1966-09-05,Rustenburg,South Africa,Upper-Middle,tshepo.smith5@gmail.com,0795437923,2026-05-20 21:18:03.947897
+C006,Phiwayinkosi Singh,MALE,1969-03-14,George,South Africa,Low,phiwayinkosi.singh6@gmail.com,0775918715,2026-05-20 21:18:03.947897
+C007,Nokufa Gcaleka,MALE,1964-03-29,Cape Town,South Africa,Middle,nokufa.gcaleka7@gmail.com,0845855124,2026-05-20 21:18:03.947897
+C008,David Cele,M,1992-02-07,Kimberley,South Africa,High,david.cele8@gmail.com,0807120868,2026-05-20 21:18:03.947897
+C009,Sifiso Steyn,M,1976-10-18,Kimberley,South Africa,Low,sifiso.steyn9@gmail.com,0793871230,2026-05-20 21:18:03.947897
+C010,Francois Anderson,female,1992-01-16,Kimberley,South Africa,Middle,francois.anderson10@gmail.com,0816440561,2026-05-20 21:18:03.947897
+C011,David Dlamini,FEMALE,1986-04-20,George,South Africa,Upper-Middle,david.dlamini11@gmail.com,0624539704,2026-05-20 21:18:03.947897
+C012,Neha Khoza,M,2002-10-15,George,South Africa,High,neha.khoza12@gmail.com,0645443951,2026-05-20 21:18:03.947897
+C013,Rajesh Moodley,male,1981-07-28,Benoni,South Africa,High,rajesh.moodley13@gmail.com,0887700828,2026-05-20 21:18:03.947897
+C014,Sunita Mokoena,M,2003-09-18,Sandton,South Africa,Low,sunita.mokoena14@gmail.com,0841790481,2026-05-20 21:18:03.947897
+C015,Hendrik Mhlongo,M,1972-05-09,Paarl,South Africa,Low,hendrik.mhlongo15@gmail.com,0727402509,2026-05-20 21:18:03.947897
+C001,Sipho Smit,Male,1979-12-21,Pietermaritzburg,South Africa,Middle,sipho.smit1@gmail.com,0832719583,2026-05-20 21:18:10.580655
+C002,Mduduzi Brown,Male,1960-11-07,Johannesburg,South Africa,Low,mduduzi.brown2@gmail.com,0664903402,2026-05-20 21:18:10.580655
+C003,Nkosinathi Gcaleka,Male,1995-08-21,Pietermaritzburg,South Africa,High,nkosinathi.gcaleka3@gmail.com,0785667265,2026-05-20 21:18:10.580655
+C004,Francois Brown,Male,1988-07-11,Kimberley,South Africa,Middle,francois.brown4@gmail.com,0666647119,2026-05-20 21:18:10.580655
+C005,Tshepo Smith,Male,1966-09-05,Rustenburg,South Africa,Upper-Middle,tshepo.smith5@gmail.com,0795437923,2026-05-20 21:18:10.580655
+C006,Phiwayinkosi Singh,Male,1969-03-14,George,South Africa,Low,phiwayinkosi.singh6@gmail.com,0775918715,2026-05-20 21:18:10.580655
+C007,Nokufa Gcaleka,Female,1964-03-29,Cape Town,South Africa,Middle,nokufa.gcaleka7@gmail.com,0845855124,2026-05-20 21:18:10.580655
+C008,David Cele,Male,1992-02-07,Centurion,South Africa,High,david.cele8@gmail.com,0807120868,2026-05-20 21:18:10.584326
+C009,Sifiso Steyn,Male,1976-10-18,Kimberley,South Africa,Low,sifiso.steyn9@gmail.com,0793871230,2026-05-20 21:18:10.584326
+C010,Francois Anderson,Male,1992-01-16,Kimberley,South Africa,Middle,francois.anderson10@gmail.com,0816440561,2026-05-20 21:18:10.584326
+C011,David Dlamini,Male,1986-04-20,Polokwane,South Africa,Upper-Middle,david.dlamini11@gmail.com,0624539704,2026-05-20 21:18:10.584326
+C012,Neha Khoza,Female,2002-10-15,Port Elizabeth,South Africa,High,neha.khoza12@gmail.com,0645443951,2026-05-20 21:18:10.584326
+C013,Rajesh Moodley,Male,1981-07-28,Durban,South Africa,High,rajesh.moodley13@gmail.com,0887700828,2026-05-20 21:18:10.584326
+C014,Sunita Mokoena,Female,2003-09-18,Port Elizabeth,South Africa,Low,sunita.mokoena14@gmail.com,0841790481,2026-05-20 21:18:10.584326
+C015,Hendrik Mhlongo,Male,1972-05-09,Paarl,South Africa,Low,hendrik.mhlongo15@gmail.com,0727402509,2026-05-20 21:18:10.584326
+C016,Sbongile Fourie,Female,1959-01-12,Paarl,South Africa,Upper-Middle,sbongile.fourie16@gmail.com,0846707197,2026-05-20 21:18:10.584326
+C017,Mohammed Brown,Male,1972-03-10,Stellenbosch,South Africa,Low,mohammed.brown17@gmail.com,0835418934,2026-05-20 21:18:10.584326
+C018,Sakhile Cele,Male,1984-10-10,Centurion,South Africa,Middle,sakhile.cele18@gmail.com,0647273233,2026-05-20 21:18:10.584326
+C019,Mthulisi Pillay,Male,1958-01-19,Midrand,South Africa,Upper-Middle,mthulisi.pillay19@gmail.com,0751326765,2026-05-20 21:18:10.584326
+C020,Sifiso Joubert,Male,1979-06-26,Cape Town,South Africa,Middle,sifiso.joubert20@gmail.com,0882321324,2026-05-20 21:18:10.584326
+C021,Lwazi Ndlovu,Male,2005-10-16,Port Elizabeth,South Africa,Middle,lwazi.ndlovu21@gmail.com,0818973915,2026-05-20 21:18:10.584326
+C022,Sanjay Pillay,Male,1995-12-18,East London,South Africa,Middle,sanjay.pillay22@gmail.com,0826229731,2026-05-20 21:18:10.584326
+C023,Siphokazi Taylor,Female,2004-06-07,Stellenbosch,South Africa,Low,siphokazi.taylor23@gmail.com,0674769795,2026-05-20 21:18:10.584326
+C024,Lungelo Zulu,Male,1978-08-24,Benoni,South Africa,Middle,lungelo.zulu24@gmail.com,0602191066,2026-05-20 21:18:10.584326
+C025,David Ndlovu,Male,1960-10-26,Polokwane,South Africa,Low,david.ndlovu25@gmail.com,0764993055,2026-05-20 21:18:10.584326
+C026,Noxolo van der Merwe,Female,1969-11-14,Benoni,South Africa,High,noxolo.van der merwe26@gmail.com,0678935169,2026-05-20 21:18:10.584326
+C027,Priya Cele,Female,1966-09-12,Boksburg,South Africa,Upper-Middle,priya.cele27@gmail.com,0737897151,2026-05-20 21:18:10.584326
+C028,Thandeka Khoza,Female,1966-10-30,Cape Town,South Africa,High,thandeka.khoza28@gmail.com,0836692553,2026-05-20 21:18:10.584326
+C029,Rajesh Gcaleka,Male,1975-01-24,Midrand,South Africa,High,rajesh.gcaleka29@gmail.com,0648077999,2026-05-20 21:18:10.584326
+C030,Amit Anderson,Male,1980-05-30,Durban,South Africa,High,amit.anderson30@gmail.com,0852642635,2026-05-20 21:18:10.584326
+C031,Mthulisi Nkosi,Male,1966-05-15,Boksburg,South Africa,Middle,mthulisi.nkosi31@gmail.com,0739147706,2026-05-20 21:18:10.584326
+C032,Neha Jones,Female,1963-04-06,Bloemfontein,South Africa,High,neha.jones32@gmail.com,0607550190,2026-05-20 21:18:10.584326
+C033,Zodwa Pretorius,Female,1995-12-14,Midrand,South Africa,High,zodwa.pretorius33@gmail.com,0644185957,2026-05-20 21:18:10.584326
+C034,Neha Mkhize,Female,1963-06-21,Polokwane,South Africa,Low,neha.mkhize34@gmail.com,0618999183,2026-05-20 21:18:10.584326
+C035,Bongani Reddy,Male,1965-03-10,Bloemfontein,South Africa,Low,bongani.reddy35@gmail.com,0792140194,2026-05-20 21:18:10.584326
+C036,Sibusiso Modise,Male,1980-02-02,Port Elizabeth,South Africa,Low,sibusiso.modise36@gmail.com,0792375453,2026-05-20 21:18:10.584326
+C037,Nobuhle Sithole,Female,2004-11-25,Polokwane,South Africa,Upper-Middle,nobuhle.sithole37@gmail.com,0666271130,2026-05-20 21:18:10.584326
+C038,Sanjay Jones,Male,1969-09-28,Nelspruit,South Africa,High,sanjay.jones38@gmail.com,0702217071,2026-05-20 21:18:10.584326
+C039,Phiwayinkosi Zwane,Male,1966-12-21,Durban,South Africa,Middle,phiwayinkosi.zwane39@gmail.com,0765449324,2026-05-20 21:18:10.584326
+C040,Nhlanhla Ndlovu,Male,1979-12-01,Rustenburg,South Africa,Upper-Middle,nhlanhla.ndlovu40@gmail.com,0658351517,2026-05-20 21:18:10.584326
+C041,Sbongile Nkosi,Female,1984-11-10,Sandton,South Africa,Middle,sbongile.nkosi41@gmail.com,0682936571,2026-05-20 21:18:10.584326
+C042,Nkosinathi Moloi,Male,1982-06-08,Nelspruit,South Africa,Middle,nkosinathi.moloi42@gmail.com,0826752576,2026-05-20 21:18:10.584326
+C043,Sanjay Reddy,Male,2001-10-30,Kimberley,South Africa,Low,sanjay.reddy43@gmail.com,0628106422,2026-05-20 21:18:10.584326
+C044,Zanele Nkosi,Female,1987-12-04,Port Elizabeth,South Africa,Upper-Middle,zanele.nkosi44@gmail.com,0658412769,2026-05-20 21:18:10.584326
+C045,Lungile Nkosi,Female,1968-01-14,Durban,South Africa,Middle,lungile.nkosi45@gmail.com,0771604451,2026-05-20 21:18:10.584326
+C046,Nobuhle Moodley,Female,1971-04-15,Paarl,South Africa,Middle,nobuhle.moodley46@gmail.com,0616171716,2026-05-20 21:18:10.584326
+C047,Zanele Steyn,Female,1976-11-05,Pietermaritzburg,South Africa,Low,zanele.steyn47@gmail.com,0717817881,2026-05-20 21:18:10.584326
+C048,Rajesh Radebe,Male,1973-11-19,Stellenbosch,South Africa,Low,rajesh.radebe48@gmail.com,0656573147,2026-05-20 21:18:10.584326
+C049,Ayesha Smit,Female,1972-04-13,Pretoria,South Africa,High,ayesha.smit49@gmail.com,0871649691,2026-05-20 21:18:10.584326
+C050,Sunita Gcaleka,Female,1999-04-19,Rustenburg,South Africa,Upper-Middle,sunita.gcaleka50@gmail.com,0864818418,2026-05-20 21:18:10.584326
+C051,Sipho Gcaleka,Male,1993-09-30,Polokwane,South Africa,Upper-Middle,sipho.gcaleka51@gmail.com,0872164686,2026-05-20 21:18:10.584326
+C052,Nompumelelo Khoza,Female,2003-09-14,George,South Africa,Upper-Middle,nompumelelo.khoza52@gmail.com,0602935113,2026-05-20 21:18:10.584326
+C053,Linda Shabalala,Female,1981-10-25,Cape Town,South Africa,Low,linda.shabalala53@gmail.com,0798290770,2026-05-20 21:18:10.584326
+C054,Nokwanda Brown,Female,2003-11-19,Boksburg,South Africa,High,nokwanda.brown54@gmail.com,0884188992,2026-05-20 21:18:10.584326
+C055,Zanele Brown,Female,1958-02-25,Pretoria,South Africa,Middle,zanele.brown55@gmail.com,0718235969,2026-05-20 21:18:10.584326
+C056,Lungelo Zwane,Male,1986-03-01,Pretoria,South Africa,Upper-Middle,lungelo.zwane56@gmail.com,0766188935,2026-05-20 21:18:10.584326
+C057,Nokwanda Jones,Female,1984-07-11,Pietermaritzburg,South Africa,Middle,nokwanda.jones57@gmail.com,0668053918,2026-05-20 21:18:10.584326
+C058,Linda Zwane,Female,1984-12-31,Kimberley,South Africa,Low,linda.zwane58@gmail.com,0695813613,2026-05-20 21:18:10.584326
+C059,Sanele Shabalala,Male,1986-11-29,Stellenbosch,South Africa,High,sanele.shabalala59@gmail.com,0744585314,2026-05-20 21:18:10.584326
+C060,Jennifer Ngcobo,Female,1983-06-18,Centurion,South Africa,Upper-Middle,jennifer.ngcobo60@gmail.com,0624940441,2026-05-20 21:18:10.584326
+C061,Sunita Gcaleka,Female,1971-03-22,Johannesburg,South Africa,Low,sunita.gcaleka61@gmail.com,0678971465,2026-05-20 21:18:10.584326
+C062,Phiwayinkosi Williams,Male,1975-06-12,George,South Africa,High,phiwayinkosi.williams62@gmail.com,0725093379,2026-05-20 21:18:10.584326
+C063,Thabo Cele,Male,1996-02-22,Port Elizabeth,South Africa,Middle,thabo.cele63@gmail.com,0859689889,2026-05-20 21:18:10.584326
+C064,Thandeka Moodley,Female,1980-05-10,Pretoria,South Africa,High,thandeka.moodley64@gmail.com,0648795419,2026-05-20 21:18:10.584326
+C065,Simangele Zwane,Female,2003-04-15,Paarl,South Africa,High,simangele.zwane65@gmail.com,0883670226,2026-05-20 21:18:10.584326
+C066,Simangele Fourie,Female,1980-03-07,Midrand,South Africa,High,simangele.fourie66@gmail.com,0805013879,2026-05-20 21:18:10.584326
+C067,Simangele Ndlovu,Female,1983-08-20,Pietermaritzburg,South Africa,Upper-Middle,simangele.ndlovu67@gmail.com,0706363836,2026-05-20 21:18:10.584326
+C068,Johan Moloi,Male,1978-09-30,Pretoria,South Africa,Middle,johan.moloi68@gmail.com,0824589533,2026-05-20 21:18:10.584326
+C069,Njabulo Williams,Male,1987-09-08,Midrand,South Africa,High,njabulo.williams69@gmail.com,0732044645,2026-05-20 21:18:10.584326
+C070,Njabulo Smith,Male,1959-10-03,Benoni,South Africa,High,njabulo.smith70@gmail.com,0751098919,2026-05-20 21:18:10.584326
+C071,Thandi Smith,Female,1995-08-05,Boksburg,South Africa,Middle,thandi.smith71@gmail.com,0754681284,2026-05-20 21:18:10.584326
+C072,Nokukhanya Govender,Female,1960-08-09,George,South Africa,Upper-Middle,nokukhanya.govender72@gmail.com,0817783308,2026-05-20 21:18:10.584326
+C073,Phiwayinkosi Mokoena,Male,2005-12-02,Johannesburg,South Africa,High,phiwayinkosi.mokoena73@gmail.com,0781454696,2026-05-20 21:18:10.584326
+C074,Sanele Mokoena,Male,1999-06-03,Boksburg,South Africa,Low,sanele.mokoena74@gmail.com,0687360307,2026-05-20 21:18:10.584326
+C075,Neha Anderson,Female,1987-04-29,Polokwane,South Africa,High,neha.anderson75@gmail.com,0688072684,2026-05-20 21:18:10.584326
+C076,Naledi Naidoo,Female,1959-09-28,Durban,South Africa,Low,naledi.naidoo76@gmail.com,0714761823,2026-05-20 21:18:10.584326
+C077,Mandla Zulu,Male,1980-03-08,East London,South Africa,Low,mandla.zulu77@gmail.com,0793556551,2026-05-20 21:18:10.584326
+C078,Johan Naidoo,Male,1968-04-06,Benoni,South Africa,Middle,johan.naidoo78@gmail.com,0745299055,2026-05-20 21:18:10.584326
+C079,Jennifer Mthembu,Female,1968-04-11,George,South Africa,Upper-Middle,jennifer.mthembu79@gmail.com,0631430812,2026-05-20 21:18:10.584326
+C080,Nokufa Smith,Female,1993-08-02,East London,South Africa,Low,nokufa.smith80@gmail.com,0785074336,2026-05-20 21:18:10.584326
+C081,Yusuf Mthembu,Male,1968-11-10,Benoni,South Africa,Low,yusuf.mthembu81@gmail.com,0719937982,2026-05-20 21:18:10.584326
+C082,Siphokazi Ndlovu,Female,2003-05-24,Polokwane,South Africa,Low,siphokazi.ndlovu82@gmail.com,0878047416,2026-05-20 21:18:10.584326
+C083,Elsie Brown,Female,1990-06-30,Stellenbosch,South Africa,Middle,elsie.brown83@gmail.com,0733955087,2026-05-20 21:18:10.584326
+C084,Nozipho Naidoo,Female,1999-09-15,Pietermaritzburg,South Africa,Upper-Middle,nozipho.naidoo84@gmail.com,0705118725,2026-05-20 21:18:10.584326
+C085,Amit Taylor,Male,1979-11-17,Stellenbosch,South Africa,High,amit.taylor85@gmail.com,0701481506,2026-05-20 21:18:10.584326
+C086,Nokwanda Baloyi,Female,2001-09-28,Durban,South Africa,Upper-Middle,nokwanda.baloyi86@gmail.com,0855334434,2026-05-20 21:18:10.584326
+C087,Zainab Mthembu,Female,1982-10-14,Midrand,South Africa,Low,zainab.mthembu87@gmail.com,0764205394,2026-05-20 21:18:10.584326
+C088,Rajesh Williams,Male,2001-10-31,Midrand,South Africa,Middle,rajesh.williams88@gmail.com,0828987516,2026-05-20 21:18:10.584326
+C089,Simangele Zulu,Female,1966-05-08,Nelspruit,South Africa,Middle,simangele.zulu89@gmail.com,0725081983,2026-05-20 21:18:10.584326
+C090,Nobuhle Lombard,Female,2000-06-16,Midrand,South Africa,Upper-Middle,nobuhle.lombard90@gmail.com,0736549757,2026-05-20 21:18:10.584326
+C091,Zodwa Smit,Female,1985-07-05,Kimberley,South Africa,Middle,zodwa.smit91@gmail.com,0634231028,2026-05-20 21:18:10.584326
+C092,Maria Singh,Female,1974-08-11,East London,South Africa,Middle,maria.singh92@gmail.com,0839123504,2026-05-20 21:18:10.584326
+C093,Nobuhle Pillay,Female,1983-05-23,Port Elizabeth,South Africa,Middle,nobuhle.pillay93@gmail.com,0694816534,2026-05-20 21:18:10.584326
+C094,Linda Joubert,Female,1959-04-09,Paarl,South Africa,Middle,linda.joubert94@gmail.com,0681763626,2026-05-20 21:18:10.584326
+C095,Nkosinathi Pretorius,Male,1969-04-30,Kimberley,South Africa,Low,nkosinathi.pretorius95@gmail.com,0871205779,2026-05-20 21:18:10.584326
+C096,Nokuthula Naidoo,Female,1997-07-08,Polokwane,South Africa,Middle,nokuthula.naidoo96@gmail.com,0615235884,2026-05-20 21:18:10.584326
+C097,Maria Ndlovu,Female,1993-12-13,Benoni,South Africa,Low,maria.ndlovu97@gmail.com,0781899411,2026-05-20 21:18:10.584326
+C098,Hendrik Sithole,Male,1985-04-05,Durban,South Africa,Middle,hendrik.sithole98@gmail.com,0637982241,2026-05-20 21:18:10.584326
+C099,Thandolwethu Smith,Male,1998-06-02,Stellenbosch,South Africa,Upper-Middle,thandolwethu.smith99@gmail.com,0878194570,2026-05-20 21:18:10.584326
+C100,Nokufa Zwane,Female,1963-05-28,Nelspruit,South Africa,Low,nokufa.zwane100@gmail.com,0844486102,2026-05-20 21:18:10.584326
+C101,Sanjay Ngcobo,Male,1972-02-03,Pietermaritzburg,South Africa,Middle,sanjay.ngcobo101@gmail.com,0772259379,2026-05-20 21:18:10.584326
+C102,Thabo Williams,Male,1998-06-02,Sandton,South Africa,High,thabo.williams102@gmail.com,0691547605,2026-05-20 21:18:10.584326
+C103,Mohammed Pretorius,Male,1998-09-25,Durban,South Africa,Middle,mohammed.pretorius103@gmail.com,0895438490,2026-05-20 21:18:10.584326
+C104,Sanele Modise,Male,1978-03-03,Port Elizabeth,South Africa,Upper-Middle,sanele.modise104@gmail.com,0863386328,2026-05-20 21:18:10.584326
+C105,Bongani Radebe,Male,1985-08-06,Boksburg,South Africa,Upper-Middle,bongani.radebe105@gmail.com,0743086308,2026-05-20 21:18:10.584326
+C106,Thandi Jones,Female,1982-06-04,Centurion,South Africa,High,thandi.jones106@gmail.com,0742349590,2026-05-20 21:18:10.584326
+C107,Sanele Kruger,Male,1980-06-18,Johannesburg,South Africa,Low,sanele.kruger107@gmail.com,0671348050,2026-05-20 21:18:10.584326
+C108,Nokufa Dlamini,Female,1973-09-19,Sandton,South Africa,High,nokufa.dlamini108@gmail.com,0895666692,2026-05-20 21:18:10.584326
+C109,Mduduzi Brown,Male,2002-02-11,Midrand,South Africa,High,mduduzi.brown109@gmail.com,0717850944,2026-05-20 21:18:10.584326
+C110,Nokwanda Cele,Female,1972-06-05,Polokwane,South Africa,High,nokwanda.cele110@gmail.com,0829312590,2026-05-20 21:18:10.584326
+C111,Ntombifikile Moodley,Female,1961-04-17,Stellenbosch,South Africa,Low,ntombifikile.moodley111@gmail.com,0705234550,2026-05-20 21:18:10.584326
+C112,Maria Jones,Female,2004-03-02,Johannesburg,South Africa,High,maria.jones112@gmail.com,0731909393,2026-05-20 21:18:10.584326
+C113,Thandolwethu Lombard,Male,2002-09-21,Stellenbosch,South Africa,Low,thandolwethu.lombard113@gmail.com,0665480460,2026-05-20 21:18:10.584326
+C114,Mohammed Taylor,Male,2001-06-27,Pretoria,South Africa,Low,mohammed.taylor114@gmail.com,0805014745,2026-05-20 21:18:10.584326
+C115,Yusuf Moodley,Male,1959-03-25,Midrand,South Africa,High,yusuf.moodley115@gmail.com,0624769851,2026-05-20 21:18:10.584326
+C116,Phiwayinkosi Modise,Male,1971-10-25,Sandton,South Africa,Upper-Middle,phiwayinkosi.modise116@gmail.com,0765587308,2026-05-20 21:18:10.584326
+C117,Nokuthula Naidoo,Female,1979-11-13,Stellenbosch,South Africa,Middle,nokuthula.naidoo117@gmail.com,0724197911,2026-05-20 21:18:10.584326
+C118,Kagiso Smit,Male,1995-03-24,Port Elizabeth,South Africa,Upper-Middle,kagiso.smit118@gmail.com,0861043037,2026-05-20 21:18:10.584326
+C119,Thandi Shabalala,Female,2001-12-05,Port Elizabeth,South Africa,High,thandi.shabalala119@gmail.com,0779125900,2026-05-20 21:18:10.584326
+C120,Busisiwe Moodley,Female,1991-11-04,Stellenbosch,South Africa,Upper-Middle,busisiwe.moodley120@gmail.com,0874165061,2026-05-20 21:18:10.584326
+C121,Buyani Smith,Male,1978-12-15,Paarl,South Africa,Low,buyani.smith121@gmail.com,0708935224,2026-05-20 21:18:10.584326
+C122,Ayanda Khoza,Female,1971-08-25,Sandton,South Africa,Low,ayanda.khoza122@gmail.com,0649427047,2026-05-20 21:18:10.584326
+C123,Elsie Taylor,Female,1966-12-12,Centurion,South Africa,High,elsie.taylor123@gmail.com,0603418526,2026-05-20 21:18:10.584326
+C124,Patricia Ndlovu,Female,2000-02-14,Kimberley,South Africa,Upper-Middle,patricia.ndlovu124@gmail.com,0797668663,2026-05-20 21:18:10.584326
+C125,Lungelo Singh,Male,1992-02-04,Polokwane,South Africa,High,lungelo.singh125@gmail.com,0871602286,2026-05-20 21:18:10.584326
+C126,Rajesh Mhlongo,Male,1983-10-13,Pietermaritzburg,South Africa,Low,rajesh.mhlongo126@gmail.com,0732651601,2026-05-20 21:18:10.584326
+C127,Mthokozisi Radebe,Male,1984-11-12,Johannesburg,South Africa,Low,mthokozisi.radebe127@gmail.com,0701941524,2026-05-20 21:18:10.584326
+C128,Nompumelelo Lombard,Female,1996-08-21,Port Elizabeth,South Africa,Middle,nompumelelo.lombard128@gmail.com,0767913081,2026-05-20 21:18:10.584326
+C129,Francois Baloyi,Male,1965-01-31,Boksburg,South Africa,High,francois.baloyi129@gmail.com,0795040453,2026-05-20 21:18:10.584326
+C130,Nobuhle Moloi,Female,1978-10-31,Stellenbosch,South Africa,Upper-Middle,nobuhle.moloi130@gmail.com,0745283671,2026-05-20 21:18:10.584326
+C131,Phiwayinkosi Pretorius,Male,1972-03-04,Durban,South Africa,High,phiwayinkosi.pretorius131@gmail.com,0716018975,2026-05-20 21:18:10.584326
+C132,Fatima Anderson,Female,1985-02-07,East London,South Africa,High,fatima.anderson132@gmail.com,0879106886,2026-05-20 21:18:10.584326
+C133,Rajesh Smith,Male,1990-03-16,Port Elizabeth,South Africa,Upper-Middle,rajesh.smith133@gmail.com,0825953150,2026-05-20 21:18:10.584326
+C134,Sibusiso Smit,Male,1958-09-23,Benoni,South Africa,Low,sibusiso.smit134@gmail.com,0899333700,2026-05-20 21:18:10.584326
+C135,Sunita Mthembu,Female,1989-08-10,Pietermaritzburg,South Africa,Middle,sunita.mthembu135@gmail.com,0795204819,2026-05-20 21:18:10.584326
+C136,Mpho Mhlongo,Male,1961-07-15,Nelspruit,South Africa,High,mpho.mhlongo136@gmail.com,0617121355,2026-05-20 21:18:10.584326
+C137,Tshepo Pretorius,Male,1987-04-24,Sandton,South Africa,Middle,tshepo.pretorius137@gmail.com,0663217273,2026-05-20 21:18:10.584326
+C138,Sbongile Reddy,Female,1982-06-14,Bloemfontein,South Africa,Upper-Middle,sbongile.reddy138@gmail.com,0899084065,2026-05-20 21:18:10.584326
+C139,Busisiwe Modise,Female,2000-01-07,Durban,South Africa,Middle,busisiwe.modise139@gmail.com,0844785186,2026-05-20 21:18:10.584326
+C140,Lungile Lombard,Female,1966-02-07,Sandton,South Africa,Low,lungile.lombard140@gmail.com,0683073474,2026-05-20 21:18:10.584326
+C141,Siphokazi Fourie,Female,1992-03-08,Rustenburg,South Africa,Low,siphokazi.fourie141@gmail.com,0814922880,2026-05-20 21:18:10.584326
+C142,Nomsa Zwane,Female,1987-06-06,Boksburg,South Africa,Middle,nomsa.zwane142@gmail.com,0802060605,2026-05-20 21:18:10.584326
+C143,Thandi Khoza,Female,1994-08-19,Pietermaritzburg,South Africa,Middle,thandi.khoza143@gmail.com,0611624315,2026-05-20 21:18:10.584326
+C144,Noxolo Modise,Female,1966-09-20,Pietermaritzburg,South Africa,Middle,noxolo.modise144@gmail.com,0728610879,2026-05-20 21:18:10.584326
+C145,Nozipho Williams,Female,1971-11-12,Paarl,South Africa,Low,nozipho.williams145@gmail.com,0869209880,2026-05-20 21:18:10.584326
+C146,Zainab Dlamini,Female,1991-03-30,East London,South Africa,High,zainab.dlamini146@gmail.com,0744961312,2026-05-20 21:18:10.584326
+C147,Elsie Lombard,Female,1990-03-07,Cape Town,South Africa,High,elsie.lombard147@gmail.com,0684184459,2026-05-20 21:18:10.584326
+C148,Phiwayinkosi Ngcobo,Male,1977-01-11,Boksburg,South Africa,Low,phiwayinkosi.ngcobo148@gmail.com,0616595355,2026-05-20 21:18:10.584326
+C149,Johan Sithole,Male,1976-05-30,Durban,South Africa,Middle,johan.sithole149@gmail.com,0784623062,2026-05-20 21:18:10.584326
+C150,Lungelo Moloi,Male,1958-04-03,Kimberley,South Africa,Middle,lungelo.moloi150@gmail.com,0645205279,2026-05-20 21:18:10.584326
+C151,Themba Zulu,Male,1969-10-28,Stellenbosch,South Africa,Upper-Middle,themba.zulu151@gmail.com,0854991829,2026-05-20 21:18:10.584326
+C152,Nomsa Baloyi,Female,1981-10-22,Cape Town,South Africa,Middle,nomsa.baloyi152@gmail.com,0838062546,2026-05-20 21:18:10.584326
+C153,Kagiso Naidoo,Male,1998-03-21,Rustenburg,South Africa,Low,kagiso.naidoo153@gmail.com,0749453010,2026-05-20 21:18:10.584326
+C154,Mandla Pillay,Male,1985-01-22,Cape Town,South Africa,Low,mandla.pillay154@gmail.com,0619035982,2026-05-20 21:18:10.584326
+C155,Nokukhanya Cele,Female,2001-12-26,Stellenbosch,South Africa,Low,nokukhanya.cele155@gmail.com,0882355439,2026-05-20 21:18:10.584326
+C156,Patricia Ndlovu,Female,1969-04-28,Kimberley,South Africa,Upper-Middle,patricia.ndlovu156@gmail.com,0729901266,2026-05-20 21:18:10.584326
+C157,Zodwa Reddy,Female,1996-08-05,Pretoria,South Africa,Low,zodwa.reddy157@gmail.com,0874607488,2026-05-20 21:18:10.584326
+C158,Simangele Botha,Female,1995-02-15,Polokwane,South Africa,High,simangele.botha158@gmail.com,0727979148,2026-05-20 21:18:10.584326
+C159,Andile Brown,Male,1986-01-14,Polokwane,South Africa,Upper-Middle,andile.brown159@gmail.com,0648956894,2026-05-20 21:18:10.584326
+C160,Tshepo Ngcobo,Male,1966-05-13,Paarl,South Africa,Low,tshepo.ngcobo160@gmail.com,0837251976,2026-05-20 21:18:10.584326
+C161,Nkosinathi Mkhize,Male,1987-07-29,Pretoria,South Africa,High,nkosinathi.mkhize161@gmail.com,0718095702,2026-05-20 21:18:10.584326
+C162,Mohammed Mthembu,Male,1986-01-12,Pietermaritzburg,South Africa,Low,mohammed.mthembu162@gmail.com,0789512969,2026-05-20 21:18:10.584326
+C163,Hendrik Naidoo,Male,1978-02-13,Benoni,South Africa,Upper-Middle,hendrik.naidoo163@gmail.com,0877166651,2026-05-20 21:18:10.584326
+C164,Amit Sithole,Male,1978-04-16,Paarl,South Africa,Low,amit.sithole164@gmail.com,0795487028,2026-05-20 21:18:10.584326
+C165,James Smit,Male,1985-09-20,Midrand,South Africa,Upper-Middle,james.smit165@gmail.com,0604043480,2026-05-20 21:18:10.584326
+C166,Buyani Jones,Male,1964-03-30,Port Elizabeth,South Africa,Low,buyani.jones166@gmail.com,0629900022,2026-05-20 21:18:10.584326
+C167,Musa Williams,Male,1998-09-13,Polokwane,South Africa,Middle,musa.williams167@gmail.com,0716228407,2026-05-20 21:18:10.584326
+C168,Nokufa Mthembu,Female,1965-08-15,Cape Town,South Africa,Middle,nokufa.mthembu168@gmail.com,0651834876,2026-05-20 21:18:10.584326
+C169,Amit Taylor,Male,1996-01-16,Polokwane,South Africa,High,amit.taylor169@gmail.com,0735582979,2026-05-20 21:18:10.584326
+C170,Sakhile Modise,Male,1988-12-19,Stellenbosch,South Africa,Low,sakhile.modise170@gmail.com,0699164342,2026-05-20 21:18:10.584326
+C171,Zanele Botha,Female,1993-06-17,Boksburg,South Africa,Low,zanele.botha171@gmail.com,0604429650,2026-05-20 21:18:10.584326
+C172,Neha Mokoena,Female,1980-12-03,Nelspruit,South Africa,Upper-Middle,neha.mokoena172@gmail.com,0631129686,2026-05-20 21:18:10.584326
+C173,Nokukhanya Baloyi,Female,1969-08-04,George,South Africa,Middle,nokukhanya.baloyi173@gmail.com,0766941939,2026-05-20 21:18:10.584326
+C174,Sibusiso Dlamini,Male,1997-02-19,Polokwane,South Africa,High,sibusiso.dlamini174@gmail.com,0892306317,2026-05-20 21:18:10.584326
+C175,Nokufa Brown,Female,1994-04-14,Paarl,South Africa,Upper-Middle,nokufa.brown175@gmail.com,0637795314,2026-05-20 21:18:10.584326
+C176,Andile Radebe,Male,1999-04-12,Sandton,South Africa,Low,andile.radebe176@gmail.com,0732776088,2026-05-20 21:18:10.584326
+C177,Sanele Shabalala,Male,1993-12-04,Centurion,South Africa,Low,sanele.shabalala177@gmail.com,0726205543,2026-05-20 21:18:10.584326
+C178,Sunita de Villiers,Female,1973-01-31,Paarl,South Africa,Low,sunita.de villiers178@gmail.com,0769555575,2026-05-20 21:18:10.584326
+C179,Nhlanhla Steyn,Male,1971-04-02,Pietermaritzburg,South Africa,Low,nhlanhla.steyn179@gmail.com,0645294434,2026-05-20 21:18:10.584326
+C180,James Mthembu,Male,1971-09-19,Durban,South Africa,Middle,james.mthembu180@gmail.com,0849289908,2026-05-20 21:18:10.584326
+C181,Nokufa Shabalala,Female,1998-04-10,Benoni,South Africa,Upper-Middle,nokufa.shabalala181@gmail.com,0876303930,2026-05-20 21:18:10.584326
+C182,Mthokozisi Ndlovu,Male,2000-01-26,Stellenbosch,South Africa,Upper-Middle,mthokozisi.ndlovu182@gmail.com,0855608259,2026-05-20 21:18:10.584326
+C183,Nhlanhla Reddy,Male,1964-08-28,Nelspruit,South Africa,High,nhlanhla.reddy183@gmail.com,0741630944,2026-05-20 21:18:10.584326
+C184,Sifiso Pretorius,Male,1964-11-19,George,South Africa,High,sifiso.pretorius184@gmail.com,0741688246,2026-05-20 21:18:10.584326
+C185,Nokufa Khoza,Female,1974-11-21,Nelspruit,South Africa,High,nokufa.khoza185@gmail.com,0763531028,2026-05-20 21:18:10.584326
+C186,Mthokozisi Cele,Male,1988-10-23,Durban,South Africa,Middle,mthokozisi.cele186@gmail.com,0615156449,2026-05-20 21:18:10.584326
+C187,Simangele Pillay,Female,2004-11-24,Boksburg,South Africa,Middle,simangele.pillay187@gmail.com,0717255418,2026-05-20 21:18:10.584326
+C188,Ayanda Williams,Female,1988-05-10,Boksburg,South Africa,Low,ayanda.williams188@gmail.com,0856614484,2026-05-20 21:18:10.584326
+C189,Lungelo Cele,Male,1992-09-05,Nelspruit,South Africa,Upper-Middle,lungelo.cele189@gmail.com,0833522845,2026-05-20 21:18:10.584326
+C190,Naledi Shabalala,Female,1970-09-09,Rustenburg,South Africa,Upper-Middle,naledi.shabalala190@gmail.com,0807575963,2026-05-20 21:18:10.584326
+C191,Tshepo Joubert,Male,1991-10-18,Polokwane,South Africa,Middle,tshepo.joubert191@gmail.com,0819831414,2026-05-20 21:18:10.584326
+C192,Sanele Reddy,Male,1990-06-18,Johannesburg,South Africa,Upper-Middle,sanele.reddy192@gmail.com,0694024309,2026-05-20 21:18:10.584326
+C193,Lungelo Govender,Male,1975-03-24,Pietermaritzburg,South Africa,Middle,lungelo.govender193@gmail.com,0642294615,2026-05-20 21:18:10.584326
+C194,Elsie Reddy,Female,2005-03-28,Cape Town,South Africa,Upper-Middle,elsie.reddy194@gmail.com,0883198638,2026-05-20 21:18:10.584326
+C195,Patricia Radebe,Female,1974-03-23,Boksburg,South Africa,Middle,patricia.radebe195@gmail.com,0838342941,2026-05-20 21:18:10.584326
+C196,Njabulo Lombard,Male,1979-04-24,Sandton,South Africa,Upper-Middle,njabulo.lombard196@gmail.com,0848531761,2026-05-20 21:18:10.584326
+C197,Mthulisi Coetzee,Male,1985-10-06,Sandton,South Africa,Middle,mthulisi.coetzee197@gmail.com,0718391997,2026-05-20 21:18:10.584326
+C198,Nomvula Smith,Female,2003-02-13,Centurion,South Africa,High,nomvula.smith198@gmail.com,0654350371,2026-05-20 21:18:10.584326
+C199,Sanjay Mkhize,Male,2001-02-11,George,South Africa,Low,sanjay.mkhize199@gmail.com,0829655523,2026-05-20 21:18:10.584326
+C200,Mohammed Ngcobo,Male,1972-05-20,Kimberley,South Africa,High,mohammed.ngcobo200@gmail.com,0889612629,2026-05-20 21:18:10.584326
+C201,Sanele Ngcobo,Male,1977-12-02,Stellenbosch,South Africa,Upper-Middle,sanele.ngcobo201@gmail.com,0891447451,2026-05-20 21:18:10.584326
+C202,Thandeka Jones,Female,2003-01-14,Rustenburg,South Africa,Middle,thandeka.jones202@gmail.com,0722369112,2026-05-20 21:18:10.584326
+C203,Sunita Zulu,Female,1986-08-04,Kimberley,South Africa,Upper-Middle,sunita.zulu203@gmail.com,0853450300,2026-05-20 21:18:10.584326
+C204,Mandla Pretorius,Male,2000-05-21,Port Elizabeth,South Africa,High,mandla.pretorius204@gmail.com,0741088100,2026-05-20 21:18:10.584326
+C205,Sipho Fourie,Male,1977-05-07,Centurion,South Africa,High,sipho.fourie205@gmail.com,0635833542,2026-05-20 21:18:10.584326
+C206,Yusuf Modise,Male,1962-04-14,Pietermaritzburg,South Africa,High,yusuf.modise206@gmail.com,0808669093,2026-05-20 21:18:10.584326
+C207,Themba Govender,Male,1959-06-23,Centurion,South Africa,Middle,themba.govender207@gmail.com,0823408819,2026-05-20 21:18:10.584326
+C208,Nokukhanya Nkosi,Female,1989-08-27,Pietermaritzburg,South Africa,High,nokukhanya.nkosi208@gmail.com,0652436363,2026-05-20 21:18:10.584326
+C209,Precious Pillay,Female,2003-07-08,Polokwane,South Africa,Low,precious.pillay209@gmail.com,0728887557,2026-05-20 21:18:10.584326
+C210,Musa Lombard,Male,1980-10-03,Johannesburg,South Africa,Upper-Middle,musa.lombard210@gmail.com,0852133461,2026-05-20 21:18:10.584326
+C211,Ayesha Mhlongo,Female,1967-04-20,Benoni,South Africa,Upper-Middle,ayesha.mhlongo211@gmail.com,0641743829,2026-05-20 21:18:10.584326
+C212,Nozipho de Villiers,Female,1973-09-16,Stellenbosch,South Africa,High,nozipho.de villiers212@gmail.com,0804058117,2026-05-20 21:18:10.584326
+C213,Kagiso Anderson,Male,1961-04-26,Nelspruit,South Africa,Middle,kagiso.anderson213@gmail.com,0614346548,2026-05-20 21:18:10.584326
+C214,Andile Joubert,Male,2004-03-28,Pietermaritzburg,South Africa,High,andile.joubert214@gmail.com,0681614394,2026-05-20 21:18:10.584326
+C215,Mohammed Steyn,Male,1962-04-16,Polokwane,South Africa,Upper-Middle,mohammed.steyn215@gmail.com,0637174337,2026-05-20 21:18:10.584326
+C216,Ntombifikile Taylor,Female,1992-09-08,Polokwane,South Africa,Middle,ntombifikile.taylor216@gmail.com,0759347057,2026-05-20 21:18:10.584326
+C217,Sbongile Smit,Female,1965-05-31,Paarl,South Africa,Low,sbongile.smit217@gmail.com,0734027557,2026-05-20 21:18:10.584326
+C218,Nokwanda Cele,Female,1965-03-08,Polokwane,South Africa,Upper-Middle,nokwanda.cele218@gmail.com,0698481225,2026-05-20 21:18:10.584326
+C219,Jennifer Taylor,Female,1989-07-16,Stellenbosch,South Africa,Low,jennifer.taylor219@gmail.com,0836914963,2026-05-20 21:18:10.584326
+C220,Zainab Mhlongo,Female,1963-02-23,Durban,South Africa,High,zainab.mhlongo220@gmail.com,0719608154,2026-05-20 21:18:10.584326
+C221,Sipho Moloi,Male,1997-04-24,Cape Town,South Africa,Middle,sipho.moloi221@gmail.com,0624959345,2026-05-20 21:18:10.584326
+C222,Siphokazi Smith,Female,1960-11-27,Boksburg,South Africa,Middle,siphokazi.smith222@gmail.com,0818548448,2026-05-20 21:18:10.584326
+C223,Siphokazi Taylor,Female,1964-11-24,Benoni,South Africa,Middle,siphokazi.taylor223@gmail.com,0767156398,2026-05-20 21:18:10.584326
+C224,Nokwanda Khoza,Female,1983-01-02,Pietermaritzburg,South Africa,Low,nokwanda.khoza224@gmail.com,0604121368,2026-05-20 21:18:10.584326
+C225,Sbongile Smith,Female,1968-07-25,Kimberley,South Africa,Upper-Middle,sbongile.smith225@gmail.com,0828487220,2026-05-20 21:18:10.584326
+C226,Mohammed Govender,Male,1975-12-17,Pretoria,South Africa,Middle,mohammed.govender226@gmail.com,0872242387,2026-05-20 21:18:10.584326
+C227,Linda Taylor,Female,1965-11-16,Polokwane,South Africa,Upper-Middle,linda.taylor227@gmail.com,0822089496,2026-05-20 21:18:10.584326
+C228,Thandi Radebe,Female,1973-08-14,Rustenburg,South Africa,Middle,thandi.radebe228@gmail.com,0634371891,2026-05-20 21:18:10.584326
+C229,Rajesh Govender,Male,1960-05-11,Paarl,South Africa,Upper-Middle,rajesh.govender229@gmail.com,0743177199,2026-05-20 21:18:10.584326
+C230,Kagiso Joubert,Male,1993-09-20,Sandton,South Africa,High,kagiso.joubert230@gmail.com,0847869154,2026-05-20 21:18:10.584326
+C231,Johan Kruger,Male,1964-08-27,Pretoria,South Africa,High,johan.kruger231@gmail.com,0819679860,2026-05-20 21:18:10.584326
+C232,Helena Moodley,Female,1974-04-29,Port Elizabeth,South Africa,High,helena.moodley232@gmail.com,0761929673,2026-05-20 21:18:10.584326
+C233,Thandolwethu Moloi,Male,1985-04-14,Bloemfontein,South Africa,Middle,thandolwethu.moloi233@gmail.com,0704782763,2026-05-20 21:18:10.584326
+C234,Sbongile Pretorius,Female,1965-01-28,Kimberley,South Africa,Middle,sbongile.pretorius234@gmail.com,0805604524,2026-05-20 21:18:10.584326
+C235,Yusuf Zwane,Male,2005-11-11,Durban,South Africa,Middle,yusuf.zwane235@gmail.com,0783586950,2026-05-20 21:18:10.584326
+C236,Lungelo Sithole,Male,1961-09-11,Johannesburg,South Africa,Low,lungelo.sithole236@gmail.com,0615440189,2026-05-20 21:18:10.584326
+C237,Buyani Williams,Male,1960-09-19,Sandton,South Africa,Upper-Middle,buyani.williams237@gmail.com,0806068298,2026-05-20 21:18:10.584326
+C238,Ayesha Jones,Female,1984-09-07,East London,South Africa,Low,ayesha.jones238@gmail.com,0822005173,2026-05-20 21:18:10.584326
+C239,Mthokozisi Williams,Male,2001-06-11,Boksburg,South Africa,Middle,mthokozisi.williams239@gmail.com,0703410360,2026-05-20 21:18:10.584326
+C240,Nokwanda Steyn,Female,1993-10-09,Port Elizabeth,South Africa,Upper-Middle,nokwanda.steyn240@gmail.com,0762781470,2026-05-20 21:18:10.584326
+C241,Ayesha Anderson,Female,1968-12-28,Kimberley,South Africa,High,ayesha.anderson241@gmail.com,0673363534,2026-05-20 21:18:10.584326
+C242,Bongani Pretorius,Male,1992-06-18,Boksburg,South Africa,High,bongani.pretorius242@gmail.com,0673679315,2026-05-20 21:18:10.584326
+C243,Nokufa Kruger,Female,1975-01-12,Bloemfontein,South Africa,High,nokufa.kruger243@gmail.com,0768831858,2026-05-20 21:18:10.584326
+C244,Thandi Govender,Female,1960-01-30,Polokwane,South Africa,High,thandi.govender244@gmail.com,0768671057,2026-05-20 21:18:10.584326
+C245,Michael Shabalala,Male,1989-08-29,Cape Town,South Africa,Low,michael.shabalala245@gmail.com,0699302946,2026-05-20 21:18:10.584326
+C246,Nomvula Singh,Female,1958-09-25,Pretoria,South Africa,High,nomvula.singh246@gmail.com,0645437118,2026-05-20 21:18:10.584326
+C247,Ntombifikile Lombard,Female,1962-01-22,George,South Africa,Low,ntombifikile.lombard247@gmail.com,0784265774,2026-05-20 21:18:10.584326
+C248,Lungile Pretorius,Female,1964-08-06,George,South Africa,High,lungile.pretorius248@gmail.com,0845692934,2026-05-20 21:18:10.584326
+C249,Johan Cele,Male,1993-05-04,Rustenburg,South Africa,Upper-Middle,johan.cele249@gmail.com,0777133857,2026-05-20 21:18:10.584326
+C250,Robert Mthembu,Male,2003-09-04,George,South Africa,Low,robert.mthembu250@gmail.com,0611652868,2026-05-20 21:18:10.584326
+C251,Lungelo Naidoo,Male,2004-08-04,Stellenbosch,South Africa,Middle,lungelo.naidoo251@gmail.com,0799648751,2026-05-20 21:18:10.584326
+C252,Andile Zwane,Male,1986-07-30,Bloemfontein,South Africa,High,andile.zwane252@gmail.com,0796020319,2026-05-20 21:18:10.584326
+C253,Ntombi Reddy,Female,2005-10-04,Sandton,South Africa,Upper-Middle,ntombi.reddy253@gmail.com,0751279121,2026-05-20 21:18:10.584326
+C254,Busisiwe Modise,Female,1995-05-16,Benoni,South Africa,Upper-Middle,busisiwe.modise254@gmail.com,0851447065,2026-05-20 21:18:10.584326
+C255,Fatima Khoza,Female,1978-06-01,Cape Town,South Africa,High,fatima.khoza255@gmail.com,0659795159,2026-05-20 21:18:10.584326
+C256,Patricia Coetzee,Female,1960-10-31,Benoni,South Africa,Low,patricia.coetzee256@gmail.com,0661317716,2026-05-20 21:18:10.584326
+C257,Nokwanda Williams,Female,1971-08-03,Bloemfontein,South Africa,Middle,nokwanda.williams257@gmail.com,0739419134,2026-05-20 21:18:10.584326
+C258,Thandeka Mokoena,Female,2004-07-14,East London,South Africa,Upper-Middle,thandeka.mokoena258@gmail.com,0819025733,2026-05-20 21:18:10.584326
+C259,Nokwanda Baloyi,Female,1999-03-29,Midrand,South Africa,Upper-Middle,nokwanda.baloyi259@gmail.com,0776943949,2026-05-20 21:18:10.584326
+C260,Nokuthula Gcaleka,Female,1980-02-12,Kimberley,South Africa,Upper-Middle,nokuthula.gcaleka260@gmail.com,0675993143,2026-05-20 21:18:10.584326
+C261,Neha Govender,Female,1986-06-11,Sandton,South Africa,Upper-Middle,neha.govender261@gmail.com,0775587856,2026-05-20 21:18:10.584326
+C262,Maria Sithole,Female,1992-01-24,Boksburg,South Africa,Upper-Middle,maria.sithole262@gmail.com,0843457461,2026-05-20 21:18:10.584326
+C263,Zanele Pretorius,Female,1965-02-02,Rustenburg,South Africa,High,zanele.pretorius263@gmail.com,0805302415,2026-05-20 21:18:10.584326
+C264,Neha Gcaleka,Female,1982-04-29,East London,South Africa,Upper-Middle,neha.gcaleka264@gmail.com,0642832517,2026-05-20 21:18:10.584326
+C265,Rajesh Mkhize,Male,2005-08-23,Pietermaritzburg,South Africa,Middle,rajesh.mkhize265@gmail.com,0612681042,2026-05-20 21:18:10.584326
+C266,Busisiwe Naidoo,Female,1967-01-08,Port Elizabeth,South Africa,Low,busisiwe.naidoo266@gmail.com,0773649811,2026-05-20 21:18:10.584326
+C267,Nokuthula Naidoo,Female,1975-11-23,Nelspruit,South Africa,Upper-Middle,nokuthula.naidoo267@gmail.com,0691992583,2026-05-20 21:18:10.584326
+C268,Buyani Botha,Male,1961-05-07,Stellenbosch,South Africa,High,buyani.botha268@gmail.com,0883949245,2026-05-20 21:18:10.584326
+C269,Sibusiso Govender,Male,1974-09-19,Nelspruit,South Africa,Low,sibusiso.govender269@gmail.com,0606006190,2026-05-20 21:18:10.584326
+C270,Lungelo Pretorius,Male,1998-10-06,Midrand,South Africa,High,lungelo.pretorius270@gmail.com,0883251501,2026-05-20 21:18:10.584326
+C271,Zainab Gcaleka,Female,1968-02-09,Stellenbosch,South Africa,Middle,zainab.gcaleka271@gmail.com,0838699307,2026-05-20 21:18:10.584326
+C272,Linda Nkosi,Female,1988-03-30,Nelspruit,South Africa,Middle,linda.nkosi272@gmail.com,0657802999,2026-05-20 21:18:10.584326
+C273,Ntombi Kruger,Female,1965-10-13,Sandton,South Africa,Low,ntombi.kruger273@gmail.com,0653359075,2026-05-20 21:18:10.584326
+C274,Nokwanda Coetzee,Female,1958-08-12,Kimberley,South Africa,High,nokwanda.coetzee274@gmail.com,0678494978,2026-05-20 21:18:10.584326
+C275,Busisiwe Joubert,Female,1959-01-10,Pietermaritzburg,South Africa,Upper-Middle,busisiwe.joubert275@gmail.com,0824964499,2026-05-20 21:18:10.584326
+C276,Themba Anderson,Male,1985-07-11,Bloemfontein,South Africa,High,themba.anderson276@gmail.com,0819430894,2026-05-20 21:18:10.584326
+C277,Maria Mhlongo,Female,1984-06-20,Rustenburg,South Africa,Middle,maria.mhlongo277@gmail.com,0673240912,2026-05-20 21:18:10.584326
+C278,Patricia Anderson,Female,1991-07-09,Nelspruit,South Africa,High,patricia.anderson278@gmail.com,0844664338,2026-05-20 21:18:10.584326
+C279,Tshepo Pillay,Male,1998-01-30,Benoni,South Africa,Upper-Middle,tshepo.pillay279@gmail.com,0622882551,2026-05-20 21:18:10.584326
+C280,Nkosinathi Reddy,Male,1976-02-20,Kimberley,South Africa,Middle,nkosinathi.reddy280@gmail.com,0656504900,2026-05-20 21:18:10.584326
+C281,Maria van der Merwe,Female,2001-11-08,Durban,South Africa,High,maria.van der merwe281@gmail.com,0851933413,2026-05-20 21:18:10.584326
+C282,Helena Reddy,Female,1995-04-09,Benoni,South Africa,Low,helena.reddy282@gmail.com,0778757420,2026-05-20 21:18:10.584326
+C283,Nomsa Jones,Female,1980-10-30,Johannesburg,South Africa,Middle,nomsa.jones283@gmail.com,0782225232,2026-05-20 21:18:10.584326
+C284,Sanele Steyn,Male,1963-09-21,Midrand,South Africa,Low,sanele.steyn284@gmail.com,0892157949,2026-05-20 21:18:10.584326
+C285,Zanele Pretorius,Female,1994-09-06,Bloemfontein,South Africa,Middle,zanele.pretorius285@gmail.com,0848052503,2026-05-20 21:18:10.584326
+C286,Ayanda Taylor,Female,1991-11-13,George,South Africa,Low,ayanda.taylor286@gmail.com,0813231198,2026-05-20 21:18:10.584326
+C287,Maria Baloyi,Female,1993-04-06,Centurion,South Africa,Middle,maria.baloyi287@gmail.com,0834736121,2026-05-20 21:18:10.584326
+C288,Sipho Joubert,Male,1999-07-16,Midrand,South Africa,High,sipho.joubert288@gmail.com,0777363203,2026-05-20 21:18:10.584326
+C289,Rajesh Anderson,Male,1989-01-20,Port Elizabeth,South Africa,Upper-Middle,rajesh.anderson289@gmail.com,0662893218,2026-05-20 21:18:10.584326
+C290,Njabulo Zwane,Male,1959-05-28,Port Elizabeth,South Africa,Middle,njabulo.zwane290@gmail.com,0622692765,2026-05-20 21:18:10.584326
+C291,Mthokozisi Mthembu,Male,1962-05-15,Pietermaritzburg,South Africa,Low,mthokozisi.mthembu291@gmail.com,0728364573,2026-05-20 21:18:10.584326
+C292,Mthulisi van der Merwe,Male,1963-01-24,Port Elizabeth,South Africa,Upper-Middle,mthulisi.van der merwe292@gmail.com,0676350316,2026-05-20 21:18:10.584326
+C293,Ayesha Joubert,Female,1970-11-08,Centurion,South Africa,Middle,ayesha.joubert293@gmail.com,0736041569,2026-05-20 21:18:10.584326
+C294,Thandeka Moodley,Female,1973-09-17,Paarl,South Africa,High,thandeka.moodley294@gmail.com,0616778321,2026-05-20 21:18:10.584326
+C295,Sbongile Kruger,Female,1995-05-09,Cape Town,South Africa,Middle,sbongile.kruger295@gmail.com,0697315953,2026-05-20 21:18:10.584326
+C296,Mthulisi Naidoo,Male,1979-08-15,Pietermaritzburg,South Africa,Upper-Middle,mthulisi.naidoo296@gmail.com,0873421820,2026-05-20 21:18:10.584326
+C297,Thandeka Moodley,Female,1995-01-09,Paarl,South Africa,Middle,thandeka.moodley297@gmail.com,0725074489,2026-05-20 21:18:10.584326
+C298,Neha de Villiers,Female,1965-02-03,Stellenbosch,South Africa,Upper-Middle,neha.de villiers298@gmail.com,0629986473,2026-05-20 21:18:10.584326
+C299,Bongani Smit,Male,1991-11-03,Kimberley,South Africa,Low,bongani.smit299@gmail.com,0872221118,2026-05-20 21:18:10.584326
+C300,Mduduzi Moodley,Male,1977-06-21,Sandton,South Africa,Middle,mduduzi.moodley300@gmail.com,0876586214,2026-05-20 21:18:10.584326
+C301,Lerato van der Merwe,Female,1975-01-18,Pretoria,South Africa,High,lerato.van der merwe301@gmail.com,0895070038,2026-05-20 21:18:10.584326
+C302,Sibusiso Coetzee,Male,1986-11-08,Nelspruit,South Africa,High,sibusiso.coetzee302@gmail.com,0749953163,2026-05-20 21:18:10.584326
+C303,Thandi Fourie,Female,1990-04-07,Centurion,South Africa,High,thandi.fourie303@gmail.com,0742654371,2026-05-20 21:18:10.584326
+C304,Nokwanda van der Merwe,Female,1991-04-05,Polokwane,South Africa,High,nokwanda.van der merwe304@gmail.com,0614712363,2026-05-20 21:18:10.584326
+C305,Sipho Fourie,Male,1995-06-19,Nelspruit,South Africa,Middle,sipho.fourie305@gmail.com,0666534221,2026-05-20 21:18:10.584326
+C306,Musa Sithole,Male,1980-01-18,Sandton,South Africa,Upper-Middle,musa.sithole306@gmail.com,0689197701,2026-05-20 21:18:10.584326
+C307,Zodwa Radebe,Female,1989-08-06,Bloemfontein,South Africa,Middle,zodwa.radebe307@gmail.com,0839192588,2026-05-20 21:18:10.584326
+C308,Mthulisi Khoza,Male,1963-04-09,Centurion,South Africa,Low,mthulisi.khoza308@gmail.com,0862247057,2026-05-20 21:18:10.584326
+C309,Thabo Williams,Male,1970-05-03,Pietermaritzburg,South Africa,Low,thabo.williams309@gmail.com,0823533857,2026-05-20 21:18:10.584326
+C310,Michael Reddy,Male,1998-11-29,Rustenburg,South Africa,Low,michael.reddy310@gmail.com,0799106820,2026-05-20 21:18:10.584326
+C311,Nomsa Nkosi,Female,2005-09-30,Polokwane,South Africa,High,nomsa.nkosi311@gmail.com,0601280618,2026-05-20 21:18:10.584326
+C312,Nozipho Pretorius,Female,1959-07-16,Centurion,South Africa,High,nozipho.pretorius312@gmail.com,0854007598,2026-05-20 21:18:10.584326
+C313,Mpho Pillay,Male,1971-05-12,Pietermaritzburg,South Africa,Middle,mpho.pillay313@gmail.com,0799832465,2026-05-20 21:18:10.584326
+C314,Nompumelelo Smit,Female,1993-08-10,Sandton,South Africa,Upper-Middle,nompumelelo.smit314@gmail.com,0728700704,2026-05-20 21:18:10.584326
+C315,David Joubert,Male,1965-03-26,Pretoria,South Africa,Low,david.joubert315@gmail.com,0727362994,2026-05-20 21:18:10.584326
+C316,Lungile Naidoo,Female,1963-01-13,Johannesburg,South Africa,Middle,lungile.naidoo316@gmail.com,0629386232,2026-05-20 21:18:10.584326
+C317,Busisiwe Sithole,Female,1966-07-22,Port Elizabeth,South Africa,Low,busisiwe.sithole317@gmail.com,0674546989,2026-05-20 21:18:10.584326
+C318,Zainab Dlamini,Female,1964-09-02,Centurion,South Africa,Low,zainab.dlamini318@gmail.com,0656276177,2026-05-20 21:18:10.584326
+C319,Michael Shabalala,Male,1970-12-08,Polokwane,South Africa,Low,michael.shabalala319@gmail.com,0693725462,2026-05-20 21:18:10.584326
+C320,Buyani Smith,Male,1987-10-06,George,South Africa,Middle,buyani.smith320@gmail.com,0852315798,2026-05-20 21:18:10.584326
+C321,Thandeka Cele,Female,1997-03-19,Pietermaritzburg,South Africa,Low,thandeka.cele321@gmail.com,0707655572,2026-05-20 21:18:10.584326
+C322,Nomsa Mhlongo,Female,1982-07-10,Stellenbosch,South Africa,High,nomsa.mhlongo322@gmail.com,0676969521,2026-05-20 21:18:10.584326
+C323,Nokukhanya Baloyi,Female,1992-02-06,Bloemfontein,South Africa,Upper-Middle,nokukhanya.baloyi323@gmail.com,0855134741,2026-05-20 21:18:10.584326
+C324,Tshepo Smit,Male,1971-11-02,George,South Africa,Middle,tshepo.smit324@gmail.com,0837536772,2026-05-20 21:18:10.584326
+C325,Siphokazi Cele,Female,1966-03-18,Johannesburg,South Africa,Upper-Middle,siphokazi.cele325@gmail.com,0747038413,2026-05-20 21:18:10.584326
+C326,Elsie Mokoena,Female,1965-10-31,Durban,South Africa,High,elsie.mokoena326@gmail.com,0749597330,2026-05-20 21:18:10.584326
+C327,Elsie Zulu,Female,1966-01-15,Pretoria,South Africa,Low,elsie.zulu327@gmail.com,0796443037,2026-05-20 21:18:10.584326
+C328,Lerato Pretorius,Female,1995-02-15,Kimberley,South Africa,Low,lerato.pretorius328@gmail.com,0835072543,2026-05-20 21:18:10.584326
+C329,Musa Radebe,Male,1970-06-16,Kimberley,South Africa,Upper-Middle,musa.radebe329@gmail.com,0689273246,2026-05-20 21:18:10.584326
+C330,Kagiso Radebe,Male,1996-12-30,Kimberley,South Africa,High,kagiso.radebe330@gmail.com,0699124053,2026-05-20 21:18:10.584326
+C331,Sifiso Fourie,Male,1980-02-15,Sandton,South Africa,Middle,sifiso.fourie331@gmail.com,0742794698,2026-05-20 21:18:10.584326
+C332,Yusuf Nkosi,Male,1993-07-02,Polokwane,South Africa,High,yusuf.nkosi332@gmail.com,0856528792,2026-05-20 21:18:10.584326
+C333,Busisiwe Brown,Female,1970-03-19,Nelspruit,South Africa,Upper-Middle,busisiwe.brown333@gmail.com,0794369728,2026-05-20 21:18:10.584326
+C334,Nokwanda Baloyi,Female,1993-09-23,Polokwane,South Africa,Upper-Middle,nokwanda.baloyi334@gmail.com,0839237735,2026-05-20 21:18:10.584326
+C335,Andile Smith,Male,1983-02-23,Port Elizabeth,South Africa,Upper-Middle,andile.smith335@gmail.com,0634352088,2026-05-20 21:18:10.584326
+C336,Nkosinathi Zulu,Male,1999-06-01,East London,South Africa,High,nkosinathi.zulu336@gmail.com,0855887726,2026-05-20 21:18:10.584326
+C337,Njabulo Govender,Male,1970-06-27,Nelspruit,South Africa,Middle,njabulo.govender337@gmail.com,0683586094,2026-05-20 21:18:10.584326
+C338,Ayanda Ndlovu,Female,1998-04-16,Boksburg,South Africa,High,ayanda.ndlovu338@gmail.com,0787724393,2026-05-20 21:18:10.584326
+C339,Nozipho Dlamini,Female,1990-04-04,Midrand,South Africa,Low,nozipho.dlamini339@gmail.com,0635164624,2026-05-20 21:18:10.584326
+C340,Jennifer Khoza,Female,1961-12-22,Benoni,South Africa,High,jennifer.khoza340@gmail.com,0846563269,2026-05-20 21:18:10.584326
+C341,Elsie Nkosi,Female,1966-11-06,Kimberley,South Africa,Middle,elsie.nkosi341@gmail.com,0769703982,2026-05-20 21:18:10.584326
+C342,Mthokozisi Lombard,Male,1993-02-02,Stellenbosch,South Africa,Middle,mthokozisi.lombard342@gmail.com,0711412092,2026-05-20 21:18:10.584326
+C343,Elsie Pretorius,Female,1995-04-27,Durban,South Africa,Low,elsie.pretorius343@gmail.com,0863376915,2026-05-20 21:18:10.584326
+C344,Thandi de Villiers,Female,1998-11-07,East London,South Africa,High,thandi.de villiers344@gmail.com,0718988681,2026-05-20 21:18:10.584326
+C345,Mthokozisi Taylor,Male,1986-08-12,Durban,South Africa,Upper-Middle,mthokozisi.taylor345@gmail.com,0612930810,2026-05-20 21:18:10.584326
+C346,Lungelo Khoza,Male,1967-10-24,Bloemfontein,South Africa,Middle,lungelo.khoza346@gmail.com,0763926839,2026-05-20 21:18:10.584326
+C347,Lungelo Moodley,Male,1996-04-02,Boksburg,South Africa,Middle,lungelo.moodley347@gmail.com,0857795568,2026-05-20 21:18:10.584326
+C348,James Mhlongo,Male,1996-10-08,Johannesburg,South Africa,Low,james.mhlongo348@gmail.com,0834310554,2026-05-20 21:18:10.584326
+C349,Nobuhle Brown,Female,1992-11-19,Johannesburg,South Africa,Middle,nobuhle.brown349@gmail.com,0665669851,2026-05-20 21:18:10.584326
+C350,Buyani Cele,Male,1974-10-10,Sandton,South Africa,Upper-Middle,buyani.cele350@gmail.com,0668676422,2026-05-20 21:18:10.584326
+C351,Sanjay Govender,Male,2005-05-06,George,South Africa,High,sanjay.govender351@gmail.com,0797585795,2026-05-20 21:18:10.584326
+C352,Nhlanhla Steyn,Male,1999-01-29,Boksburg,South Africa,Middle,nhlanhla.steyn352@gmail.com,0865990296,2026-05-20 21:18:10.584326
+C353,Johan Kruger,Male,1968-07-29,Pietermaritzburg,South Africa,Upper-Middle,johan.kruger353@gmail.com,0634070977,2026-05-20 21:18:10.584326
+C354,Patricia Reddy,Female,1992-11-07,Paarl,South Africa,Middle,patricia.reddy354@gmail.com,0787437584,2026-05-20 21:18:10.584326
+C355,Linda Govender,Female,1973-07-17,East London,South Africa,Middle,linda.govender355@gmail.com,0755845843,2026-05-20 21:18:10.584326
+C356,James Kruger,Male,1998-06-18,Boksburg,South Africa,Low,james.kruger356@gmail.com,0877023677,2026-05-20 21:18:10.584326
+C357,Lwazi Mokoena,Male,1975-07-04,George,South Africa,High,lwazi.mokoena357@gmail.com,0739249791,2026-05-20 21:18:10.584326
+C358,Simangele Govender,Female,1973-01-02,Durban,South Africa,Low,simangele.govender358@gmail.com,0854699871,2026-05-20 21:18:10.584326
+C359,Zanele Smit,Female,1978-03-04,Nelspruit,South Africa,Upper-Middle,zanele.smit359@gmail.com,0658672579,2026-05-20 21:18:10.584326
+C360,Lungile Reddy,Female,1968-02-27,Polokwane,South Africa,Low,lungile.reddy360@gmail.com,0687154919,2026-05-20 21:18:10.584326
+C361,Mthokozisi Singh,Male,1977-08-10,Paarl,South Africa,Low,mthokozisi.singh361@gmail.com,0835152891,2026-05-20 21:18:10.584326
+C362,Zanele Taylor,Female,1981-07-30,Rustenburg,South Africa,Low,zanele.taylor362@gmail.com,0742969410,2026-05-20 21:18:10.584326
+C363,Michael Shabalala,Male,1989-06-16,Boksburg,South Africa,High,michael.shabalala363@gmail.com,0653335975,2026-05-20 21:18:10.584326
+C364,Michael Mkhize,Male,1989-06-22,East London,South Africa,Upper-Middle,michael.mkhize364@gmail.com,0793824903,2026-05-20 21:18:10.584326
+C365,Nomvula Pretorius,Female,1981-12-26,Kimberley,South Africa,Low,nomvula.pretorius365@gmail.com,0647905438,2026-05-20 21:18:10.584326
+C366,Amit Khoza,Male,1969-05-20,Bloemfontein,South Africa,Middle,amit.khoza366@gmail.com,0646403886,2026-05-20 21:18:10.584326
+C367,Sibusiso Govender,Male,1970-10-03,Sandton,South Africa,Upper-Middle,sibusiso.govender367@gmail.com,0807949543,2026-05-20 21:18:10.584326
+C368,Simangele Ndlovu,Female,1966-05-09,George,South Africa,Upper-Middle,simangele.ndlovu368@gmail.com,0827191986,2026-05-20 21:18:10.584326
+C369,Noxolo Kruger,Female,1958-03-23,Durban,South Africa,High,noxolo.kruger369@gmail.com,0807009980,2026-05-20 21:18:10.584326
+C370,Mthulisi Jones,Male,1977-07-17,Paarl,South Africa,Middle,mthulisi.jones370@gmail.com,0755505300,2026-05-20 21:18:10.584326
+C371,Nomvula de Villiers,Female,1969-09-19,Cape Town,South Africa,High,nomvula.de villiers371@gmail.com,0856766993,2026-05-20 21:18:10.584326
+C372,Mandla Cele,Male,1999-03-26,Port Elizabeth,South Africa,Low,mandla.cele372@gmail.com,0893650523,2026-05-20 21:18:10.584326
+C373,Zodwa Nkosi,Female,1996-05-19,Polokwane,South Africa,Middle,zodwa.nkosi373@gmail.com,0886064462,2026-05-20 21:18:10.584326
+C374,Amit Ngcobo,Male,1990-05-03,Kimberley,South Africa,Low,amit.ngcobo374@gmail.com,0713777050,2026-05-20 21:18:10.584326
+C375,Sibusiso Mhlongo,Male,1985-05-29,Pietermaritzburg,South Africa,High,sibusiso.mhlongo375@gmail.com,0802530068,2026-05-20 21:18:10.584326
+C376,Thabo van der Merwe,Male,2000-10-11,Durban,South Africa,Middle,thabo.van der merwe376@gmail.com,0784794852,2026-05-20 21:18:10.584326
+C377,Lerato Nkosi,Female,1988-10-28,Pretoria,South Africa,High,lerato.nkosi377@gmail.com,0823217531,2026-05-20 21:18:10.584326
+C378,Precious Botha,Female,1992-05-14,Pretoria,South Africa,Low,precious.botha378@gmail.com,0636257165,2026-05-20 21:18:10.584326
+C379,Thandi Mokoena,Female,1992-05-03,Port Elizabeth,South Africa,Middle,thandi.mokoena379@gmail.com,0629900451,2026-05-20 21:18:10.584326
+C380,Francois Taylor,Male,1989-07-04,Johannesburg,South Africa,Middle,francois.taylor380@gmail.com,0897907345,2026-05-20 21:18:10.584326
+C381,Neha Ngcobo,Female,1967-01-06,Port Elizabeth,South Africa,Low,neha.ngcobo381@gmail.com,0787442986,2026-05-20 21:18:10.584326
+C382,Nokukhanya Kruger,Female,1970-07-18,Pietermaritzburg,South Africa,Upper-Middle,nokukhanya.kruger382@gmail.com,0802413458,2026-05-20 21:18:10.584326
+C383,Nkosinathi Mthembu,Male,1983-07-25,East London,South Africa,Upper-Middle,nkosinathi.mthembu383@gmail.com,0669686388,2026-05-20 21:18:10.584326
+C384,Sibusiso Pretorius,Male,1962-11-24,Pietermaritzburg,South Africa,High,sibusiso.pretorius384@gmail.com,0722891524,2026-05-20 21:18:10.584326
+C385,Lwazi Mhlongo,Male,1964-05-15,Centurion,South Africa,Low,lwazi.mhlongo385@gmail.com,0716309530,2026-05-20 21:18:10.584326
+C386,Musa Sithole,Male,1995-10-04,Rustenburg,South Africa,Middle,musa.sithole386@gmail.com,0848902314,2026-05-20 21:18:10.584326
+C387,Sipho Shabalala,Male,1964-01-22,Johannesburg,South Africa,Upper-Middle,sipho.shabalala387@gmail.com,0661668183,2026-05-20 21:18:10.584326
+C388,Sibusiso Reddy,Male,1983-09-14,Centurion,South Africa,High,sibusiso.reddy388@gmail.com,0737749095,2026-05-20 21:18:10.584326
+C389,Mthulisi Singh,Male,1971-09-13,Stellenbosch,South Africa,Low,mthulisi.singh389@gmail.com,0692325761,2026-05-20 21:18:10.584326
+C390,Hendrik Singh,Male,1987-04-25,George,South Africa,Low,hendrik.singh390@gmail.com,0698339797,2026-05-20 21:18:10.584326
+C391,Bongani Coetzee,Male,1965-09-26,Paarl,South Africa,Low,bongani.coetzee391@gmail.com,0741923227,2026-05-20 21:18:10.584326
+C392,Linda Modise,Female,1959-02-20,Port Elizabeth,South Africa,Low,linda.modise392@gmail.com,0659328426,2026-05-20 21:18:10.584326
+C393,Sbongile Pillay,Female,1981-04-05,Bloemfontein,South Africa,Upper-Middle,sbongile.pillay393@gmail.com,0645509119,2026-05-20 21:18:10.584326
+C394,Sipho de Villiers,Male,1996-07-08,George,South Africa,Low,sipho.de villiers394@gmail.com,0682293020,2026-05-20 21:18:10.584326
+C395,Zodwa Reddy,Female,1990-04-23,Cape Town,South Africa,High,zodwa.reddy395@gmail.com,0873799805,2026-05-20 21:18:10.584326
+C396,Jennifer Fourie,Female,1967-03-26,Benoni,South Africa,Low,jennifer.fourie396@gmail.com,0679536665,2026-05-20 21:18:10.584326
+C397,Mandla Nkosi,Male,1979-12-10,Cape Town,South Africa,High,mandla.nkosi397@gmail.com,0717425329,2026-05-20 21:18:10.584326
+C398,James Dlamini,Male,1995-08-16,Pietermaritzburg,South Africa,Upper-Middle,james.dlamini398@gmail.com,0677983626,2026-05-20 21:18:10.584326
+C399,Zainab Ndlovu,Female,1991-06-13,Pretoria,South Africa,Low,zainab.ndlovu399@gmail.com,0654744423,2026-05-20 21:18:10.584326
+C400,Sibusiso Ndlovu,Male,1999-09-23,Kimberley,South Africa,Upper-Middle,sibusiso.ndlovu400@gmail.com,0702449308,2026-05-20 21:18:10.584326
+C401,Lerato Lombard,Female,1976-01-02,Nelspruit,South Africa,Upper-Middle,lerato.lombard401@gmail.com,0835069884,2026-05-20 21:18:10.584326
+C402,Siphokazi Shabalala,Female,2002-04-06,East London,South Africa,Middle,siphokazi.shabalala402@gmail.com,0641107003,2026-05-20 21:18:10.584326
+C403,Nomsa Botha,Female,1989-01-29,Johannesburg,South Africa,Upper-Middle,nomsa.botha403@gmail.com,0607312844,2026-05-20 21:18:10.584326
+C404,Elsie van der Merwe,Female,2005-07-13,Pietermaritzburg,South Africa,High,elsie.van der merwe404@gmail.com,0752004872,2026-05-20 21:18:10.584326
+C405,Amit Ngcobo,Male,1961-12-09,Pietermaritzburg,South Africa,High,amit.ngcobo405@gmail.com,0827249378,2026-05-20 21:18:10.584326
+C406,Naledi Shabalala,Female,1966-07-29,Benoni,South Africa,Middle,naledi.shabalala406@gmail.com,0807616116,2026-05-20 21:18:10.584326
+C407,Mduduzi Sithole,Male,1963-08-03,Paarl,South Africa,Middle,mduduzi.sithole407@gmail.com,0675893511,2026-05-20 21:18:10.584326
+C408,Nokwanda Jones,Female,1987-04-09,Polokwane,South Africa,High,nokwanda.jones408@gmail.com,0684919346,2026-05-20 21:18:10.584326
+C409,Robert Mokoena,Male,1967-10-11,Port Elizabeth,South Africa,Low,robert.mokoena409@gmail.com,0658542478,2026-05-20 21:18:10.584326
+C410,Nokwanda Williams,Female,1968-10-31,Midrand,South Africa,Upper-Middle,nokwanda.williams410@gmail.com,0844483557,2026-05-20 21:18:10.584326
+C411,Thandi Anderson,Female,1981-10-10,Pretoria,South Africa,Low,thandi.anderson411@gmail.com,0656103880,2026-05-20 21:18:10.584326
+C412,Michael Kruger,Male,1971-04-23,Durban,South Africa,Middle,michael.kruger412@gmail.com,0717647878,2026-05-20 21:18:10.584326
+C413,Yusuf Fourie,Male,1973-08-07,Johannesburg,South Africa,High,yusuf.fourie413@gmail.com,0878586676,2026-05-20 21:18:10.584326
+C414,Mpho Anderson,Male,1967-02-22,Port Elizabeth,South Africa,Low,mpho.anderson414@gmail.com,0602034637,2026-05-20 21:18:10.584326
+C415,Johan Gcaleka,Male,1993-12-09,Centurion,South Africa,Low,johan.gcaleka415@gmail.com,0785342289,2026-05-20 21:18:10.584326
+C416,Sipho Ndlovu,Male,1975-09-28,Stellenbosch,South Africa,Middle,sipho.ndlovu416@gmail.com,0626562484,2026-05-20 21:18:10.584326
+C417,Mandla Anderson,Male,1962-07-18,Midrand,South Africa,High,mandla.anderson417@gmail.com,0867626978,2026-05-20 21:18:10.584326
+C418,Nomsa Smith,Female,1996-04-11,Bloemfontein,South Africa,Upper-Middle,nomsa.smith418@gmail.com,0664139874,2026-05-20 21:18:10.584326
+C419,Zainab Taylor,Female,1971-05-03,Cape Town,South Africa,Middle,zainab.taylor419@gmail.com,0805951043,2026-05-20 21:18:10.584326
+C420,Lindiwe Moodley,Female,2000-12-22,Polokwane,South Africa,Low,lindiwe.moodley420@gmail.com,0687425930,2026-05-20 21:18:10.584326
+C421,Njabulo Gcaleka,Male,2005-03-04,Pietermaritzburg,South Africa,Low,njabulo.gcaleka421@gmail.com,0727024901,2026-05-20 21:18:10.584326
+C422,Nozipho Govender,Female,1988-11-12,Benoni,South Africa,Upper-Middle,nozipho.govender422@gmail.com,0725537157,2026-05-20 21:18:10.584326
+C423,Sipho Kruger,Male,1977-08-25,Johannesburg,South Africa,Upper-Middle,sipho.kruger423@gmail.com,0618913550,2026-05-20 21:18:10.584326
+C424,Nobuhle Botha,Female,1972-04-27,Pretoria,South Africa,Middle,nobuhle.botha424@gmail.com,0815045872,2026-05-20 21:18:10.584326
+C425,Nozipho Mkhize,Female,1977-09-07,Johannesburg,South Africa,High,nozipho.mkhize425@gmail.com,0713914404,2026-05-20 21:18:10.584326
+C426,Rajesh Shabalala,Male,1986-07-13,Rustenburg,South Africa,Low,rajesh.shabalala426@gmail.com,0826900247,2026-05-20 21:18:10.584326
+C427,Buyani Gcaleka,Male,2002-02-28,Midrand,South Africa,Upper-Middle,buyani.gcaleka427@gmail.com,0659228157,2026-05-20 21:18:10.584326
+C428,Tshepo Mkhize,Male,1978-11-14,Boksburg,South Africa,Middle,tshepo.mkhize428@gmail.com,0609832340,2026-05-20 21:18:10.584326
+C429,Lerato de Villiers,Female,1976-01-28,Bloemfontein,South Africa,Upper-Middle,lerato.de villiers429@gmail.com,0823977282,2026-05-20 21:18:10.586334
+C430,Thandeka Zulu,Female,1971-04-03,East London,South Africa,Middle,thandeka.zulu430@gmail.com,0842860938,2026-05-20 21:18:10.586334
+C431,Precious Lombard,Female,1993-06-28,Benoni,South Africa,Low,precious.lombard431@gmail.com,0706062779,2026-05-20 21:18:10.586334
+C432,Helena Radebe,Female,1997-03-12,East London,South Africa,Upper-Middle,helena.radebe432@gmail.com,0656986539,2026-05-20 21:18:10.586334
+C433,Mduduzi Baloyi,Male,1991-12-12,Cape Town,South Africa,Upper-Middle,mduduzi.baloyi433@gmail.com,0643981450,2026-05-20 21:18:10.586334
+C434,Buyani Jones,Male,1960-11-27,Bloemfontein,South Africa,Upper-Middle,buyani.jones434@gmail.com,0894706007,2026-05-20 21:18:10.586334
+C435,Lwazi Moloi,Male,1987-09-17,Polokwane,South Africa,Middle,lwazi.moloi435@gmail.com,0716360633,2026-05-20 21:18:10.586334
+C436,Tshepo Mhlongo,Male,1988-02-14,Stellenbosch,South Africa,Low,tshepo.mhlongo436@gmail.com,0684517918,2026-05-20 21:18:10.586334
+C437,Kagiso Steyn,Male,1981-01-10,Pretoria,South Africa,Low,kagiso.steyn437@gmail.com,0617474950,2026-05-20 21:18:10.586334
+C438,Lindiwe Radebe,Female,1995-02-22,Sandton,South Africa,High,lindiwe.radebe438@gmail.com,0717297287,2026-05-20 21:18:10.586334
+C439,Lethiwe Sithole,Male,1978-03-28,Bloemfontein,South Africa,High,lethiwe.sithole439@gmail.com,0621560573,2026-05-20 21:18:10.586334
+C440,Nomsa Kruger,Female,1981-06-05,Stellenbosch,South Africa,Low,nomsa.kruger440@gmail.com,0703853891,2026-05-20 21:18:10.586334
+C441,Jennifer Ndlovu,Female,1966-05-09,George,South Africa,High,jennifer.ndlovu441@gmail.com,0821519979,2026-05-20 21:18:10.586334
+C442,Jennifer Mthembu,Female,1996-12-14,Bloemfontein,South Africa,Low,jennifer.mthembu442@gmail.com,0636554845,2026-05-20 21:18:10.586334
+C443,Robert Williams,Male,1981-10-19,Nelspruit,South Africa,Upper-Middle,robert.williams443@gmail.com,0672609202,2026-05-20 21:18:10.586334
+C444,Sibusiso Sithole,Male,2002-01-17,Port Elizabeth,South Africa,Low,sibusiso.sithole444@gmail.com,0711064014,2026-05-20 21:18:10.586334
+C445,Naledi Pretorius,Female,2001-02-03,East London,South Africa,Low,naledi.pretorius445@gmail.com,0604472094,2026-05-20 21:18:10.586334
+C446,Mohammed Ngcobo,Male,2000-06-26,Pretoria,South Africa,Upper-Middle,mohammed.ngcobo446@gmail.com,0857668395,2026-05-20 21:18:10.586334
+C447,Noxolo Fourie,Female,1966-03-06,Boksburg,South Africa,High,noxolo.fourie447@gmail.com,0657224691,2026-05-20 21:18:10.586334
+C448,Siphokazi Baloyi,Female,1997-12-29,Kimberley,South Africa,Upper-Middle,siphokazi.baloyi448@gmail.com,0748802377,2026-05-20 21:18:10.586334
+C449,Sunita Smit,Female,1963-07-13,Port Elizabeth,South Africa,Low,sunita.smit449@gmail.com,0626767862,2026-05-20 21:18:10.586334
+C450,Nobuhle Botha,Female,1963-06-22,George,South Africa,High,nobuhle.botha450@gmail.com,0778966231,2026-05-20 21:18:10.586334
+C451,Lethiwe Joubert,Male,1965-01-31,George,South Africa,Low,lethiwe.joubert451@gmail.com,0769670757,2026-05-20 21:18:10.586334
+C452,Themba Taylor,Male,1973-07-05,Bloemfontein,South Africa,Middle,themba.taylor452@gmail.com,0854233407,2026-05-20 21:18:10.586334
+C453,Mandla Brown,Male,1965-01-11,Paarl,South Africa,Middle,mandla.brown453@gmail.com,0863480985,2026-05-20 21:18:10.586334
+C454,Nokwanda Ndlovu,Female,1965-10-22,George,South Africa,High,nokwanda.ndlovu454@gmail.com,0776471499,2026-05-20 21:18:10.586334
+C455,Sbongile Anderson,Female,1959-02-10,Pietermaritzburg,South Africa,High,sbongile.anderson455@gmail.com,0637953189,2026-05-20 21:18:10.586334
+C456,Hendrik Sithole,Male,1966-12-28,Pretoria,South Africa,Low,hendrik.sithole456@gmail.com,0855799841,2026-05-20 21:18:10.586334
+C457,Lindiwe Fourie,Female,1992-05-13,Polokwane,South Africa,High,lindiwe.fourie457@gmail.com,0613889032,2026-05-20 21:18:10.586334
+C458,Ntombifikile Moloi,Female,1994-01-15,Cape Town,South Africa,High,ntombifikile.moloi458@gmail.com,0886561547,2026-05-20 21:18:10.586334
+C459,Bongani Naidoo,Male,1982-02-04,Rustenburg,South Africa,Low,bongani.naidoo459@gmail.com,0706084418,2026-05-20 21:18:10.586334
+C460,Zainab Govender,Female,1966-10-24,Polokwane,South Africa,Middle,zainab.govender460@gmail.com,0698434162,2026-05-20 21:18:10.586334
+C461,Zainab Williams,Female,1966-01-04,East London,South Africa,High,zainab.williams461@gmail.com,0667831185,2026-05-20 21:18:10.586334
+C462,Sbongile Lombard,Female,1963-01-16,Centurion,South Africa,Middle,sbongile.lombard462@gmail.com,0626219779,2026-05-20 21:18:10.586334
+C463,Helena Pillay,Female,1960-08-06,Bloemfontein,South Africa,Middle,helena.pillay463@gmail.com,0884367636,2026-05-20 21:18:10.586334
+C464,Rajesh Dlamini,Male,1998-12-13,Port Elizabeth,South Africa,Upper-Middle,rajesh.dlamini464@gmail.com,0824340507,2026-05-20 21:18:10.586334
+C465,Siphokazi Anderson,Female,2003-04-26,George,South Africa,Low,siphokazi.anderson465@gmail.com,0811512765,2026-05-20 21:18:10.586334
+C466,Sifiso Govender,Male,1998-01-08,Bloemfontein,South Africa,High,sifiso.govender466@gmail.com,0786867997,2026-05-20 21:18:10.586334
+C467,Jennifer Fourie,Female,1966-02-09,Nelspruit,South Africa,Low,jennifer.fourie467@gmail.com,0721833006,2026-05-20 21:18:10.586334
+C468,Buyani van der Merwe,Male,1977-11-10,Pietermaritzburg,South Africa,Middle,buyani.van der merwe468@gmail.com,0687870390,2026-05-20 21:18:10.586334
+C469,Thabo Naidoo,Male,1969-11-14,Bloemfontein,South Africa,Low,thabo.naidoo469@gmail.com,0675234408,2026-05-20 21:18:10.586334
+C470,Zainab Brown,Female,1991-10-11,Rustenburg,South Africa,High,zainab.brown470@gmail.com,0684660940,2026-05-20 21:18:10.586334
+C471,Thandi Pillay,Female,1993-08-18,Benoni,South Africa,Low,thandi.pillay471@gmail.com,0609581776,2026-05-20 21:18:10.586334
+C472,Lungile Khoza,Female,1983-05-12,George,South Africa,Low,lungile.khoza472@gmail.com,0752071008,2026-05-20 21:18:10.586334
+C473,Zainab Mhlongo,Female,1987-03-04,Bloemfontein,South Africa,Upper-Middle,zainab.mhlongo473@gmail.com,0806012883,2026-05-20 21:18:10.586334
+C474,Hendrik Pillay,Male,1979-07-24,Pretoria,South Africa,High,hendrik.pillay474@gmail.com,0816361758,2026-05-20 21:18:10.586334
+C475,Sipho Khoza,Male,2002-08-15,Paarl,South Africa,Upper-Middle,sipho.khoza475@gmail.com,0898022366,2026-05-20 21:18:10.586334
+C476,Ayanda Dlamini,Female,1975-01-15,Polokwane,South Africa,Middle,ayanda.dlamini476@gmail.com,0819969688,2026-05-20 21:18:10.586334
+C477,Nompumelelo Reddy,Female,1984-12-06,Bloemfontein,South Africa,Middle,nompumelelo.reddy477@gmail.com,0692637507,2026-05-20 21:18:10.586334
+C478,Helena Fourie,Female,1974-06-04,Stellenbosch,South Africa,Low,helena.fourie478@gmail.com,0676960666,2026-05-20 21:18:10.586334
+C479,Yusuf Williams,Male,1987-09-22,Rustenburg,South Africa,Upper-Middle,yusuf.williams479@gmail.com,0785933359,2026-05-20 21:18:10.586334
+C480,Maria Naidoo,Female,1962-10-25,Benoni,South Africa,Low,maria.naidoo480@gmail.com,0754263903,2026-05-20 21:18:10.586334
+C481,Musa Pillay,Male,1984-10-07,East London,South Africa,Low,musa.pillay481@gmail.com,0873529642,2026-05-20 21:18:10.586334
+C482,Robert de Villiers,Male,1994-09-17,Benoni,South Africa,High,robert.de villiers482@gmail.com,0646308033,2026-05-20 21:18:10.586334
+C483,Tshepo Govender,Male,1987-11-04,Boksburg,South Africa,Upper-Middle,tshepo.govender483@gmail.com,0801973306,2026-05-20 21:18:10.586334
+C484,Mthokozisi Smit,Male,1976-10-14,Bloemfontein,South Africa,Middle,mthokozisi.smit484@gmail.com,0752477088,2026-05-20 21:18:10.586334
+C485,Sanele Mhlongo,Male,1996-07-10,George,South Africa,High,sanele.mhlongo485@gmail.com,0757430982,2026-05-20 21:18:10.586334
+C486,Mandla Singh,Male,1975-11-22,Kimberley,South Africa,Low,mandla.singh486@gmail.com,0886405839,2026-05-20 21:18:10.586334
+C487,Sipho Nkosi,Male,1980-04-28,Pietermaritzburg,South Africa,Upper-Middle,sipho.nkosi487@gmail.com,0693163099,2026-05-20 21:18:10.586334
+C488,Musa Reddy,Male,1985-06-18,Bloemfontein,South Africa,Low,musa.reddy488@gmail.com,0861767026,2026-05-20 21:18:10.586334
+C489,Nomvula Anderson,Female,2004-09-04,Boksburg,South Africa,Upper-Middle,nomvula.anderson489@gmail.com,0733244614,2026-05-20 21:18:10.586334
+C490,Noxolo Steyn,Female,1974-11-27,Port Elizabeth,South Africa,High,noxolo.steyn490@gmail.com,0604832222,2026-05-20 21:18:10.586334
+C491,Johan van der Merwe,Male,1959-12-20,Midrand,South Africa,Middle,johan.van der merwe491@gmail.com,0637150383,2026-05-20 21:18:10.586334
+C492,Musa Mhlongo,Male,1980-12-12,Midrand,South Africa,Low,musa.mhlongo492@gmail.com,0791804641,2026-05-20 21:18:10.586334
+C493,Sipho Mkhize,Male,1968-05-22,Paarl,South Africa,High,sipho.mkhize493@gmail.com,0723073581,2026-05-20 21:18:10.586334
+C494,Nokuthula Moloi,Female,1976-06-08,Johannesburg,South Africa,Upper-Middle,nokuthula.moloi494@gmail.com,0732694160,2026-05-20 21:18:10.586334
+C495,Helena Williams,Female,1967-05-31,Centurion,South Africa,Low,helena.williams495@gmail.com,0692912813,2026-05-20 21:18:10.586334
+C496,Lwazi Gcaleka,Male,1975-12-03,Kimberley,South Africa,Middle,lwazi.gcaleka496@gmail.com,0717874568,2026-05-20 21:18:10.586334
+C497,Jennifer Dlamini,Female,2002-07-13,East London,South Africa,High,jennifer.dlamini497@gmail.com,0704934345,2026-05-20 21:18:10.586334
+C498,Thabo Ngcobo,Male,1967-11-28,Benoni,South Africa,High,thabo.ngcobo498@gmail.com,0642511336,2026-05-20 21:18:10.586334
+C499,Mpho Fourie,Male,1978-09-27,Stellenbosch,South Africa,Upper-Middle,mpho.fourie499@gmail.com,0688789281,2026-05-20 21:18:10.586334
+C500,Mpho Baloyi,Male,1961-07-16,Nelspruit,South Africa,Upper-Middle,mpho.baloyi500@gmail.com,0856246354,2026-05-20 21:18:10.586334
+C501,Nokufa Modise,Female,1997-04-11,Paarl,South Africa,Upper-Middle,nokufa.modise501@gmail.com,0757402487,2026-05-20 21:18:10.586334
+C502,Nokwanda Khoza,Female,1973-01-10,Sandton,South Africa,Middle,nokwanda.khoza502@gmail.com,0894906711,2026-05-20 21:18:10.586334
+C503,Buyani Steyn,Male,1979-07-13,Port Elizabeth,South Africa,High,buyani.steyn503@gmail.com,0617135510,2026-05-20 21:18:10.586334
+C504,Themba Baloyi,Male,1975-01-08,Centurion,South Africa,Upper-Middle,themba.baloyi504@gmail.com,0638761663,2026-05-20 21:18:10.586334
+C505,Busisiwe Shabalala,Female,1981-12-24,Nelspruit,South Africa,Middle,busisiwe.shabalala505@gmail.com,0881084603,2026-05-20 21:18:10.586334
+C506,Bongani Moloi,Male,1996-07-29,Rustenburg,South Africa,Middle,bongani.moloi506@gmail.com,0722865699,2026-05-20 21:18:10.586334
+C507,Francois Botha,Male,1979-09-30,Nelspruit,South Africa,High,francois.botha507@gmail.com,0853794406,2026-05-20 21:18:10.586334
+C508,Mpho Pillay,Male,1965-10-17,Cape Town,South Africa,Middle,mpho.pillay508@gmail.com,0741100025,2026-05-20 21:18:10.586334
+C509,Ayesha Ngcobo,Female,1998-01-22,Stellenbosch,South Africa,Upper-Middle,ayesha.ngcobo509@gmail.com,0777306516,2026-05-20 21:18:10.586334
+C510,Mthokozisi Lombard,Male,2000-02-23,Rustenburg,South Africa,High,mthokozisi.lombard510@gmail.com,0837603710,2026-05-20 21:18:10.586334
+C511,Nokuthula Moloi,Female,1970-10-19,Pietermaritzburg,South Africa,Upper-Middle,nokuthula.moloi511@gmail.com,0677244681,2026-05-20 21:18:10.586334
+C512,Thabo Smit,Male,1967-04-20,Midrand,South Africa,Middle,thabo.smit512@gmail.com,0899400652,2026-05-20 21:18:10.586334
+C513,Rajesh Steyn,Male,1981-06-13,Durban,South Africa,Middle,rajesh.steyn513@gmail.com,0813504274,2026-05-20 21:18:10.586334
+C514,Ayanda Moodley,Female,1979-07-28,Stellenbosch,South Africa,High,ayanda.moodley514@gmail.com,0723572416,2026-05-20 21:18:10.586334
+C515,Robert de Villiers,Male,1973-08-03,Port Elizabeth,South Africa,Low,robert.de villiers515@gmail.com,0679061456,2026-05-20 21:18:10.586334
+C516,Ayanda Shabalala,Female,1997-01-12,Port Elizabeth,South Africa,High,ayanda.shabalala516@gmail.com,0753398970,2026-05-20 21:18:10.586334
+C517,Sipho Khoza,Male,1988-02-15,Durban,South Africa,Low,sipho.khoza517@gmail.com,0723845287,2026-05-20 21:18:10.586334
+C518,Maria Shabalala,Female,1984-05-13,Port Elizabeth,South Africa,Middle,maria.shabalala518@gmail.com,0839579986,2026-05-20 21:18:10.586334
+C519,Nomvula Khoza,Female,2001-09-18,Nelspruit,South Africa,Low,nomvula.khoza519@gmail.com,0694997474,2026-05-20 21:18:10.586334
+C520,Jennifer Smith,Female,1983-03-22,Centurion,South Africa,Upper-Middle,jennifer.smith520@gmail.com,0847761735,2026-05-20 21:18:10.586334
+C521,Nozipho Moloi,Female,1987-02-06,East London,South Africa,Low,nozipho.moloi521@gmail.com,0792224935,2026-05-20 21:18:10.586334
+C522,Sunita Sithole,Female,1997-03-14,Polokwane,South Africa,Low,sunita.sithole522@gmail.com,0893361919,2026-05-20 21:18:10.586334
+C523,Zodwa Mokoena,Female,1974-11-12,Nelspruit,South Africa,Low,zodwa.mokoena523@gmail.com,0728313493,2026-05-20 21:18:10.586334
+C524,Sanele Gcaleka,Male,1987-10-06,Paarl,South Africa,Middle,sanele.gcaleka524@gmail.com,0879740351,2026-05-20 21:18:10.586334
+C525,Ntombifikile Jones,Female,1998-05-20,Pietermaritzburg,South Africa,Middle,ntombifikile.jones525@gmail.com,0646132880,2026-05-20 21:18:10.586334
+C526,Noxolo Mokoena,Female,1993-04-19,Sandton,South Africa,Upper-Middle,noxolo.mokoena526@gmail.com,0891067629,2026-05-20 21:18:10.586334
+C527,Mthokozisi Brown,Male,1974-05-19,Rustenburg,South Africa,Middle,mthokozisi.brown527@gmail.com,0832545552,2026-05-20 21:18:10.586334
+C528,Linda Ndlovu,Female,1991-06-01,Rustenburg,South Africa,Middle,linda.ndlovu528@gmail.com,0718964965,2026-05-20 21:18:10.586334
+C529,Thandi Modise,Female,1970-08-04,East London,South Africa,Middle,thandi.modise529@gmail.com,0794590865,2026-05-20 21:18:10.586334
+C530,Lerato Govender,Female,1968-03-26,Benoni,South Africa,High,lerato.govender530@gmail.com,0764446970,2026-05-20 21:18:10.586334
+C531,Mandla Nkosi,Male,1986-12-13,Stellenbosch,South Africa,Low,mandla.nkosi531@gmail.com,0875840639,2026-05-20 21:18:10.586334
+C532,Sanele Zwane,Male,1981-05-05,Midrand,South Africa,Low,sanele.zwane532@gmail.com,0837049906,2026-05-20 21:18:10.586334
+C533,Lindiwe Kruger,Female,1993-09-13,George,South Africa,High,lindiwe.kruger533@gmail.com,0872465660,2026-05-20 21:18:10.588341
+C534,Tshepo Radebe,Male,1987-05-21,Johannesburg,South Africa,Low,tshepo.radebe534@gmail.com,0647352049,2026-05-20 21:18:10.588341
+C535,Sakhile Dlamini,Male,1972-06-15,Midrand,South Africa,Middle,sakhile.dlamini535@gmail.com,0674256836,2026-05-20 21:18:10.588341
+C536,Nokwanda Pillay,Female,1984-07-31,East London,South Africa,Middle,nokwanda.pillay536@gmail.com,0877758854,2026-05-20 21:18:10.588341
+C537,Lungile Mokoena,Female,1969-04-27,Bloemfontein,South Africa,Upper-Middle,lungile.mokoena537@gmail.com,0727007742,2026-05-20 21:18:10.588341
+C538,Bongani Zwane,Male,1986-05-25,Midrand,South Africa,Low,bongani.zwane538@gmail.com,0649419038,2026-05-20 21:18:10.588341
+C539,Zanele Fourie,Female,1993-08-14,Pretoria,South Africa,Middle,zanele.fourie539@gmail.com,0854304974,2026-05-20 21:18:10.588341
+C540,Zodwa Zwane,Female,1991-10-01,Sandton,South Africa,Low,zodwa.zwane540@gmail.com,0766339205,2026-05-20 21:18:10.588341
+C541,Fatima Steyn,Female,1984-10-31,Stellenbosch,South Africa,Upper-Middle,fatima.steyn541@gmail.com,0876757675,2026-05-20 21:18:10.588341
+C542,Ayanda Fourie,Female,1975-09-07,Boksburg,South Africa,Middle,ayanda.fourie542@gmail.com,0853003735,2026-05-20 21:18:10.588341
+C543,Nomvula Mthembu,Female,1985-04-24,Sandton,South Africa,High,nomvula.mthembu543@gmail.com,0751818666,2026-05-20 21:18:10.588341
+C544,Amit Joubert,Male,1967-10-10,Stellenbosch,South Africa,Low,amit.joubert544@gmail.com,0678364740,2026-05-20 21:18:10.588341
+C545,Maria Gcaleka,Female,1969-09-11,Stellenbosch,South Africa,High,maria.gcaleka545@gmail.com,0681638530,2026-05-20 21:18:10.588341
+C546,Fatima Botha,Female,1965-09-23,Kimberley,South Africa,Upper-Middle,fatima.botha546@gmail.com,0804917657,2026-05-20 21:18:10.588341
+C547,Thandeka Mokoena,Female,1996-03-04,Sandton,South Africa,Low,thandeka.mokoena547@gmail.com,0644802574,2026-05-20 21:18:10.588341
+C548,Sunita Nkosi,Female,1989-08-11,Boksburg,South Africa,Middle,sunita.nkosi548@gmail.com,0614068021,2026-05-20 21:18:10.588341
+C549,Simangele Taylor,Female,1968-02-29,Kimberley,South Africa,Low,simangele.taylor549@gmail.com,0638463072,2026-05-20 21:18:10.588341
+C550,Sipho Naidoo,Male,1965-12-01,Rustenburg,South Africa,High,sipho.naidoo550@gmail.com,0873910429,2026-05-20 21:18:10.588341

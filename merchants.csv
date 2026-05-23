@@ -1,0 +1,61 @@
+MerchantID,MerchantName,MerchantCategory,City,Country,RiskLevel,LoadDate
+M001,Woolworths,Retail,Kimberley,South Africa,Medium,2026-05-20 21:18:03.971924
+M002,Pick n Pay,Retail,Sandton,South Africa,Medium,2026-05-20 21:18:03.971924
+M003,Checkers,Retail,Bloemfontein,South Africa,Low,2026-05-20 21:18:03.971924
+M004,Game,Retail,Port Elizabeth,South Africa,High,2026-05-20 21:18:03.971924
+M005,Makro,Retail,Cape Town,South Africa,Low,2026-05-20 21:18:03.971924
+M006,Mr Price,Retail,Pretoria,South Africa,Medium,2026-05-20 21:18:03.971924
+M007,Foschini,Retail,Benoni,South Africa,Medium,2026-05-20 21:18:03.971924
+M008,Clicks,Retail,Benoni,South Africa,High,2026-05-20 21:18:03.971924
+M009,Dis-Chem,Retail,Stellenbosch,South Africa,Low,2026-05-20 21:18:03.971924
+M010,Builders Warehouse,Retail,Boksburg,South Africa,Medium,2026-05-20 21:18:03.971924
+M011,Edgars,Retail,Rustenburg,South Africa,High,2026-05-20 21:18:03.971924
+M012,Totalsports,Retail,Johannesburg,South Africa,High,2026-05-20 21:18:03.971924
+M013,Pep,Retail,Port Elizabeth,South Africa,Medium,2026-05-20 21:18:03.971924
+M014,Truworths,Retail,Sandton,South Africa,Low,2026-05-20 21:18:03.971924
+M015,Nandos,Food,Paarl,South Africa,Medium,2026-05-20 21:18:03.971924
+M016,Steers,Food,Cape Town,South Africa,Low,2026-05-20 21:18:03.971924
+M017,KFC,Food,Kimberley,South Africa,High,2026-05-20 21:18:03.971924
+M018,McDonalds,Food,Polokwane,South Africa,Low,2026-05-20 21:18:03.971924
+M019,Ocean Basket,Food,Centurion,South Africa,High,2026-05-20 21:18:03.971924
+M020,Spur,Food,Benoni,South Africa,High,2026-05-20 21:18:03.971924
+M021,Wimpy,Food,Benoni,South Africa,Low,2026-05-20 21:18:03.971924
+M022,Debonairs,Food,Polokwane,South Africa,High,2026-05-20 21:18:03.971924
+M023,Vida e Caffe,Food,Centurion,South Africa,High,2026-05-20 21:18:03.971924
+M024,Mugg and Bean,Food,Boksburg,South Africa,Low,2026-05-20 21:18:03.971924
+M025,Romans Pizza,Food,Paarl,South Africa,High,2026-05-20 21:18:03.971924
+M026,Chicken Licken,Food,Pietermaritzburg,South Africa,Medium,2026-05-20 21:18:03.971924
+M027,FlySafair,Travel,Rustenburg,South Africa,High,2026-05-20 21:18:03.971924
+M028,Kulula,Travel,George,South Africa,Low,2026-05-20 21:18:03.971924
+M029,SAA,Travel,Midrand,South Africa,High,2026-05-20 21:18:03.971924
+M030,Protea Hotels,Travel,Cape Town,South Africa,Low,2026-05-20 21:18:03.971924
+M031,City Lodge,Travel,Bloemfontein,South Africa,High,2026-05-20 21:18:03.971924
+M032,Avis SA,Travel,Sandton,South Africa,Medium,2026-05-20 21:18:03.971924
+M033,Europcar,Travel,Bloemfontein,South Africa,Low,2026-05-20 21:18:03.971924
+M034,Engen,Travel,Sandton,South Africa,Medium,2026-05-20 21:18:03.971924
+M035,BP,Travel,Pietermaritzburg,South Africa,Medium,2026-05-20 21:18:03.971924
+M036,Shell,Travel,Kimberley,South Africa,Low,2026-05-20 21:18:03.971924
+M037,Ster-Kinekor,Entertainment,Centurion,South Africa,Low,2026-05-20 21:18:03.971924
+M038,Nu Metro,Entertainment,Midrand,South Africa,High,2026-05-20 21:18:03.971924
+M039,DStv,Entertainment,George,South Africa,Medium,2026-05-20 21:18:03.971924
+M040,Gold Reef City,Entertainment,Pietermaritzburg,South Africa,Low,2026-05-20 21:18:03.971924
+M041,Montecasino,Entertainment,Stellenbosch,South Africa,Medium,2026-05-20 21:18:03.971924
+M042,TicketPro,Entertainment,Benoni,South Africa,Medium,2026-05-20 21:18:03.971924
+M043,Takealot,Online,Durban,South Africa,Medium,2026-05-20 21:18:03.971924
+M044,Superbalist,Online,Stellenbosch,South Africa,Medium,2026-05-20 21:18:03.971924
+M045,Amazon.co.za,Online,Pretoria,South Africa,Medium,2026-05-20 21:18:03.971924
+M046,Uber Eats,Online,Johannesburg,South Africa,Low,2026-05-20 21:18:03.971924
+M047,Netflix,Online,George,South Africa,Medium,2026-05-20 21:18:03.971924
+M048,Spotify,Online,Cape Town,South Africa,High,2026-05-20 21:18:03.971924
+M049,ShowMax,Online,Midrand,South Africa,Low,2026-05-20 21:18:03.971924
+M050,Apple iTunes,Online,Durban,South Africa,High,2026-05-20 21:18:03.971924
+M051,Google Play,Online,Boksburg,South Africa,High,2026-05-20 21:18:03.971924
+M052,Bash.com,Online,Nelspruit,South Africa,High,2026-05-20 21:18:03.971924
+M053,Faithful to Nature,Online,Midrand,South Africa,Low,2026-05-20 21:18:03.971924
+M054,Loot.co.za,Online,Stellenbosch,South Africa,Medium,2026-05-20 21:18:03.971924
+M055,Zando,Online,Rustenburg,South Africa,Low,2026-05-20 21:18:03.971924
+M056,Sportsmans Whouse,Retail,Pietermaritzburg,South Africa,Medium,2026-05-20 21:18:03.971924
+M057,Cape Union Mart,Retail,Polokwane,South Africa,High,2026-05-20 21:18:03.971924
+M058,Incredible Connect,Retail,Boksburg,South Africa,High,2026-05-20 21:18:03.971924
+M059,iStore,Retail,Sandton,South Africa,High,2026-05-20 21:18:03.971924
+M060,Samsung Store,Retail,Rustenburg,South Africa,High,2026-05-20 21:18:03.971924
